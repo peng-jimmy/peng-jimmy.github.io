@@ -13,7 +13,7 @@
 
   <data name="zh_pano19_title"><![CDATA[入口右轉 - 展場平面圖]]></data>
   <data name="zh_spotpolygon278_tooltip"><![CDATA[什麼是癮？]]></data>
-  <data name="zh_spotpolygon279_tooltip"><![CDATA[細說成癮特展介紹]]></data>
+  <data name="zh_spotpolygon279_tooltip"><![CDATA[畫說成癮特展介紹]]></data>
   <data name="zh_spotpolygon280_tooltip"><![CDATA[展場平面圖]]></data>
 
 
@@ -43,8 +43,8 @@
   <data name="zh_spotpolygon709_tooltip"><![CDATA[喝酒女孩和抽雪茄男孩]]></data>
   <data name="zh_spotpolygon710_tooltip"><![CDATA[喝酒女孩和抽雪茄男孩]]></data>
   <data name="zh_spotpolygon711_tooltip"><![CDATA[成癮物質 - 鴉片類毒品]]></data>
-  <data name="zh_spotpolygon712_tooltip"><![CDATA[碧兒翠絲]]></data>
-  <data name="zh_spotpolygon713_tooltip"><![CDATA[碧兒翠絲]]></data>
+  <data name="zh_spotpolygon712_tooltip"><![CDATA[Beatrix]]></data>
+  <data name="zh_spotpolygon713_tooltip"><![CDATA[Beatrix]]></data>
   <data name="zh_spotpolygon714_tooltip"><![CDATA[一位英國鴉片吸食者的自白]]></data>
   <data name="zh_spotpolygon715_tooltip"><![CDATA[一位英國鴉片吸食者的自白]]></data>
 
@@ -63,7 +63,7 @@
 
   <data name="zh_pano24_title"><![CDATA[二、毒品的罪與罰]]></data>
   <data name="zh_spotpolygon884_tooltip"><![CDATA[毒品的罪與罰]]></data>
-  <data name="zh_spotpolygon885_tooltip"><![CDATA[島嶼與頭骨的自畫像]]></data>
+  <data name="zh_spotpolygon885_tooltip"><![CDATA[無題(連同島嶼與頭骨的自畫像)]]></data>
   <data name="zh_spotpolygon886_tooltip"><![CDATA[無題(連同島嶼與頭骨的自畫像)]]></data>
 
 
@@ -139,6 +139,9 @@
   <data name="zh_pano33_title"><![CDATA[五、物質成癮的後果 - 3/3]]></data>
   <data name="zh_spotpolygon1126_tooltip"><![CDATA[點選觀看模擬影像]]></data>
   <data name="zh_spotpolygon1127_tooltip"><![CDATA[點選觀看模擬影像]]></data>
+  <data name="zh_spotpolygon1128_tooltip"><![CDATA[迷幻藥(LSD)毒品影響模擬眼鏡]]></data>
+  <data name="zh_spotpolygon1129_tooltip"><![CDATA[酒精影響模擬眼鏡]]></data>
+  <data name="zh_spotpolygon1241_tooltip"><![CDATA[成癮物質(酒精與毒品)影響體驗桌]]></data>
 
 
   <data name="zh_pano34_title"><![CDATA[六、碰毒成癮的威脅]]></data>
