@@ -1,183 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <krpano>
 
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
 
-  <data name="zh_project_title"><![CDATA[畫說成癮特展]]></data>
+  <data name="zh_project_title"><![CDATA[畫說成癮]]></data>
   <data name="zh_project_author_name"><![CDATA[YouMei Technology Co., Ltd.]]></data>
   <data name="zh_project_author_url"><![CDATA[http://www.youmei.tw]]></data>
 
 
 
-  <data name="zh_pano1350_title"><![CDATA[畫說成癮特展入口]]></data>
-  <data name="zh_spotpoint1352_tooltip"><![CDATA[往展場]]></data>
+  <data name="zh_pano18_title"><![CDATA[A_0-1]]></data>
 
 
-  <data name="zh_pano19_title"><![CDATA[入口右轉 - 展場平面圖]]></data>
-  <data name="zh_spotpolygon278_tooltip"><![CDATA[什麼是癮？]]></data>
-  <data name="zh_spotpolygon279_tooltip"><![CDATA[畫說成癮特展介紹]]></data>
-  <data name="zh_spotpolygon280_tooltip"><![CDATA[展場平面圖]]></data>
+  <data name="zh_pano21_title"><![CDATA[A_1-1]]></data>
+  <data name="zh_spotpolygon422_tooltip"><![CDATA[展場平面圖]]></data>
+  <data name="zh_spotpolygon423_tooltip"><![CDATA[畫說成癮特展介紹]]></data>
+  <data name="zh_spotpolygon424_tooltip"><![CDATA[什麼是癮？]]></data>
+  <data name="zh_spotpolygon425_tooltip"><![CDATA[成癮物質]]></data>
+  <data name="zh_spotpolygon426_tooltip"><![CDATA[成癮物質 - 菸的危害]]></data>
+  <data name="zh_spotpolygon427_tooltip"><![CDATA[叼菸的骷髏]]></data>
+  <data name="zh_spotpolygon428_tooltip"><![CDATA[叼菸的骷髏]]></data>
+  <data name="zh_spotpolygon429_tooltip"><![CDATA[睡著的母親與在她旁邊抽菸斗的男孩]]></data>
+  <data name="zh_spotpolygon430_tooltip"><![CDATA[睡著的母親與在她旁邊抽菸斗的男孩]]></data>
+  <data name="zh_spotpolygon437_tooltip"><![CDATA[二手菸與三手菸的危害]]></data>
 
 
-  <data name="zh_pano20_title"><![CDATA[一、成癮物質 - 1/4]]></data>
-  <data name="zh_spotpolygon282_tooltip"><![CDATA[叼菸的骷髏]]></data>
-  <data name="zh_spotpolygon451_tooltip"><![CDATA[成癮物質]]></data>
-  <data name="zh_spotpolygon452_tooltip"><![CDATA[什麼是癮？]]></data>
-  <data name="zh_spotpolygon453_tooltip"><![CDATA[畫說成癮特展介紹]]></data>
-  <data name="zh_spotpolygon454_tooltip"><![CDATA[成癮物質 - 菸的危害]]></data>
-  <data name="zh_spotpolygon455_tooltip"><![CDATA[叼菸的骷髏]]></data>
-  <data name="zh_spotpolygon456_tooltip"><![CDATA[二手菸與三手菸的危害]]></data>
-  <data name="zh_spotpolygon457_tooltip"><![CDATA[睡著的年輕母親與在她旁邊抽菸斗的男孩]]></data>
-  <data name="zh_spotpolygon574_tooltip"><![CDATA[睡著的年輕母親與在她旁邊抽菸斗的男孩]]></data>
+  <data name="zh_pano22_title"><![CDATA[A_1-2]]></data>
+  <data name="zh_spotpolygon431_tooltip"><![CDATA[成癮物質 - 酒的危害]]></data>
+  <data name="zh_spotpolygon432_tooltip"><![CDATA[飲酒人]]></data>
+  <data name="zh_spotpolygon433_tooltip"><![CDATA[飲酒人]]></data>
+  <data name="zh_spotpolygon434_tooltip"><![CDATA[點選播放]]></data>
+  <data name="zh_spotpolygon435_tooltip"><![CDATA[午夜現代對話]]></data>
+  <data name="zh_spotpolygon436_tooltip"><![CDATA[午夜現代對話]]></data>
 
 
-  <data name="zh_pano21_title"><![CDATA[一、成癮物質 - 2/4]]></data>
-  <data name="zh_spotpolygon575_tooltip"><![CDATA[成癮物質 - 酒的危害]]></data>
-  <data name="zh_spotpolygon576_tooltip"><![CDATA[飲酒人]]></data>
-  <data name="zh_spotpolygon577_tooltip"><![CDATA[飲酒人]]></data>
-  <data name="zh_spotpolygon578_tooltip"><![CDATA[午夜現代對話]]></data>
-  <data name="zh_spotpolygon579_tooltip"><![CDATA[午夜現代對話]]></data>
-  <data name="zh_spotpolygon706_tooltip"><![CDATA[點選播放]]></data>
+  <data name="zh_pano23_title"><![CDATA[A_1-3]]></data>
 
 
-  <data name="zh_pano22_title"><![CDATA[一、成癮物質 - 3/4]]></data>
-  <data name="zh_spotpolygon708_tooltip"><![CDATA[物質成癮對發育中的大腦影響]]></data>
-  <data name="zh_spotpolygon709_tooltip"><![CDATA[喝酒女孩和抽雪茄男孩]]></data>
-  <data name="zh_spotpolygon710_tooltip"><![CDATA[喝酒女孩和抽雪茄男孩]]></data>
-  <data name="zh_spotpolygon711_tooltip"><![CDATA[成癮物質 - 鴉片類毒品]]></data>
-  <data name="zh_spotpolygon712_tooltip"><![CDATA[Beatrix]]></data>
-  <data name="zh_spotpolygon713_tooltip"><![CDATA[Beatrix]]></data>
-  <data name="zh_spotpolygon714_tooltip"><![CDATA[一位英國鴉片吸食者的自白]]></data>
-  <data name="zh_spotpolygon715_tooltip"><![CDATA[一位英國鴉片吸食者的自白]]></data>
+  <data name="zh_pano24_title"><![CDATA[A_1-4]]></data>
 
 
-  <data name="zh_pano23_title"><![CDATA[一、成癮物質 - 4/4]]></data>
-  <data name="zh_spotpolygon875_tooltip"><![CDATA[點選播放摩登時代 監獄古柯鹼]]></data>
-  <data name="zh_spotpolygon876_tooltip"><![CDATA[迷幻藥氾濫的 1960 年代]]></data>
-  <data name="zh_spotpolygon877_tooltip"><![CDATA[紫鯨樂團和江湖騙子演唱會(海報)]]></data>
-  <data name="zh_spotpolygon878_tooltip"><![CDATA[紫鯨樂團和江湖騙子演唱會(海報)]]></data>
-  <data name="zh_spotpolygon879_tooltip"><![CDATA[你是否有經驗(專輯封面)]]></data>
-  <data name="zh_spotpolygon880_tooltip"><![CDATA[你是否有經驗(專輯封面)]]></data>
-  <data name="zh_spotpolygon881_tooltip"><![CDATA[新興毒品 - 超級搖頭丸．超級要人命]]></data>
-  <data name="zh_spotpolygon882_tooltip"><![CDATA[自畫像]]></data>
-  <data name="zh_spotpolygon883_tooltip"><![CDATA[自畫像]]></data>
+  <data name="zh_pano25_title"><![CDATA[A_2-1]]></data>
 
 
-  <data name="zh_pano24_title"><![CDATA[二、毒品的罪與罰]]></data>
-  <data name="zh_spotpolygon884_tooltip"><![CDATA[毒品的罪與罰]]></data>
-  <data name="zh_spotpolygon885_tooltip"><![CDATA[無題(連同島嶼與頭骨的自畫像)]]></data>
-  <data name="zh_spotpolygon886_tooltip"><![CDATA[無題(連同島嶼與頭骨的自畫像)]]></data>
+  <data name="zh_pano26_title"><![CDATA[A_3-1]]></data>
 
 
-  <data name="zh_pano25_title"><![CDATA[三、人為什麼會吸毒 - 1/5]]></data>
-  <data name="zh_spotpolygon887_tooltip"><![CDATA[人為什麼會吸毒]]></data>
+  <data name="zh_pano27_title"><![CDATA[A_3-2]]></data>
 
 
-  <data name="zh_pano26_title"><![CDATA[三、人為什麼會吸毒 - 2/5]]></data>
-  <data name="zh_spotpolygon888_tooltip"><![CDATA[潘朵拉]]></data>
-  <data name="zh_spotpolygon889_tooltip"><![CDATA[潘朵拉、吸毒原因 - 好奇心]]></data>
-  <data name="zh_spotpolygon890_tooltip"><![CDATA[湯姆歷險記習作 - 哈克教湯姆與喬伊吸菸]]></data>
-  <data name="zh_spotpolygon891_tooltip"><![CDATA[湯姆歷險記習作、吸毒原因 - 朋友影響]]></data>
+  <data name="zh_pano28_title"><![CDATA[A_3-3]]></data>
 
 
-  <data name="zh_pano27_title"><![CDATA[三、人為什麼會吸毒 - 3/5]]></data>
-  <data name="zh_spotpolygon892_tooltip"><![CDATA[新塔斯醫生夫婦舉辦吸笑氣試驗派對]]></data>
-  <data name="zh_spotpolygon893_tooltip"><![CDATA[新塔斯醫生夫婦舉辦吸笑氣試驗派對]]></data>
-  <data name="zh_spotpolygon894_tooltip"><![CDATA[吸毒原因 - 助興]]></data>
-  <data name="zh_spotpolygon895_tooltip"><![CDATA[伊卡洛斯的墜落]]></data>
-  <data name="zh_spotpolygon896_tooltip"><![CDATA[伊卡洛斯的墜落、吸毒原因 - 過度自信]]></data>
-  <data name="zh_spotpolygon897_tooltip"><![CDATA[座談會]]></data>
-  <data name="zh_spotpolygon898_tooltip"><![CDATA[座談會、吸毒原因 - 無聊]]></data>
-  <data name="zh_spotpolygon899_tooltip"><![CDATA[夜遊人]]></data>
-  <data name="zh_spotpolygon900_tooltip"><![CDATA[夜遊人、吸毒原因 - 孤獨]]></data>
+  <data name="zh_pano29_title"><![CDATA[A_3-4]]></data>
 
 
-  <data name="zh_pano28_title"><![CDATA[三、人為什麼會吸毒 - 4/5]]></data>
-  <data name="zh_spotpolygon901_tooltip"><![CDATA[吸毒原因 - 壓力]]></data>
-  <data name="zh_spotpolygon902_tooltip"><![CDATA[燙衣服的女人]]></data>
-  <data name="zh_spotpolygon903_tooltip"><![CDATA[燙衣服的女人、吸毒原因 - 工作壓力]]></data>
-  <data name="zh_spotpolygon904_tooltip"><![CDATA[被遺忘的人]]></data>
-  <data name="zh_spotpolygon905_tooltip"><![CDATA[被遺忘的人、吸毒原因 - 失業壓力]]></data>
+  <data name="zh_pano30_title"><![CDATA[A_3-5]]></data>
 
 
-  <data name="zh_pano29_title"><![CDATA[三、人為什麼會吸毒 - 5/5]]></data>
-  <data name="zh_spotpolygon906_tooltip"><![CDATA[病中女孩、吸毒原因 - 家庭壓力]]></data>
-  <data name="zh_spotpolygon907_tooltip"><![CDATA[病中女孩]]></data>
-  <data name="zh_spotpolygon908_tooltip"><![CDATA[分離]]></data>
-  <data name="zh_spotpolygon909_tooltip"><![CDATA[分離、吸毒原因 - 感情壓力]]></data>
-  <data name="zh_spotpolygon910_tooltip"><![CDATA[憂鬱者]]></data>
-  <data name="zh_spotpolygon911_tooltip"><![CDATA[憂鬱者、吸毒原因 - 憂鬱]]></data>
+  <data name="zh_pano31_title"><![CDATA[A_4-1]]></data>
 
 
-  <data name="zh_pano30_title"><![CDATA[四、物質成癮的原因 - 1/1]]></data>
-  <data name="zh_spotpolygon913_tooltip"><![CDATA[第 51 號照片( DNA 去氧核醣核酸)]]></data>
-  <data name="zh_spotpolygon914_tooltip"><![CDATA[第 51 號照片、物質成癮原因 - 基因]]></data>
-  <data name="zh_spotpolygon915_tooltip"><![CDATA[遺傳]]></data>
-  <data name="zh_spotpolygon916_tooltip"><![CDATA[遺傳、物質成癮原因 - 基因]]></data>
-  <data name="zh_spotpolygon917_tooltip"><![CDATA[對所有人威脅的貧民窟公寓]]></data>
-  <data name="zh_spotpolygon918_tooltip"><![CDATA[對所有人威脅的貧民窟公寓(海報)、物質成癮原因 - 環境]]></data>
-  <data name="zh_spotpolygon919_tooltip"><![CDATA[毒品成癮的原因]]></data>
+  <data name="zh_pano32_title"><![CDATA[A_4-2]]></data>
 
 
-  <data name="zh_pano31_title"><![CDATA[五、物質成癮的後果 - 1/3]]></data>
-  <data name="zh_spotpolygon920_tooltip"><![CDATA[毒品成癮的後果]]></data>
-  <data name="zh_spotpolygon921_tooltip"><![CDATA[酒鬼進化 - 從第一杯到墳墓]]></data>
-  <data name="zh_spotpolygon922_tooltip"><![CDATA[酒鬼進化 - 從第一杯到墳墓]]></data>
-  <data name="zh_spotpolygon923_tooltip"><![CDATA[酒醉的父親]]></data>
-  <data name="zh_spotpolygon924_tooltip"><![CDATA[酒醉的父親]]></data>
-  <data name="zh_spotpolygon925_tooltip"><![CDATA[最後一滴]]></data>
-  <data name="zh_spotpolygon926_tooltip"><![CDATA[最後一滴]]></data>
-  <data name="zh_spotpolygon927_tooltip"><![CDATA[吸食鴉片在中國]]></data>
-  <data name="zh_spotpolygon928_tooltip"><![CDATA[吸食鴉片在中國]]></data>
+  <data name="zh_pano33_title"><![CDATA[A_5-1]]></data>
 
 
-  <data name="zh_pano32_title"><![CDATA[五、物質成癮的後果 - 2/3]]></data>
-  <data name="zh_spotpolygon930_tooltip"><![CDATA[感染 HIV 病毒的 H9 T 細胞]]></data>
-  <data name="zh_spotpolygon931_tooltip"><![CDATA[感染 HIV 病毒的 H9 T 細胞]]></data>
-  <data name="zh_spotpolygon932_tooltip"><![CDATA[當你分享針頭時，你可能會快速增加感染愛滋病機率。]]></data>
-  <data name="zh_spotpolygon933_tooltip"><![CDATA[當你分享針頭時，你可能會快速增加感染愛滋病機率。]]></data>
+  <data name="zh_pano34_title"><![CDATA[A_5-2]]></data>
 
 
-  <data name="zh_pano33_title"><![CDATA[五、物質成癮的後果 - 3/3]]></data>
-  <data name="zh_spotpolygon1126_tooltip"><![CDATA[點選觀看模擬影像]]></data>
-  <data name="zh_spotpolygon1127_tooltip"><![CDATA[點選觀看模擬影像]]></data>
-  <data name="zh_spotpolygon1128_tooltip"><![CDATA[迷幻藥(LSD)毒品影響模擬眼鏡]]></data>
-  <data name="zh_spotpolygon1129_tooltip"><![CDATA[酒精影響模擬眼鏡]]></data>
-  <data name="zh_spotpolygon1241_tooltip"><![CDATA[成癮物質(酒精與毒品)影響體驗桌]]></data>
+  <data name="zh_pano35_title"><![CDATA[A_6-1]]></data>
 
 
-  <data name="zh_pano34_title"><![CDATA[六、碰毒成癮的威脅]]></data>
-  <data name="zh_spotpolygon1130_tooltip"><![CDATA[碰毒成癮的威脅]]></data>
-  <data name="zh_spotpolygon1131_tooltip"><![CDATA[希望Ⅱ]]></data>
-  <data name="zh_spotpolygon1132_tooltip"><![CDATA[希望Ⅱ]]></data>
-  <data name="zh_spotpolygon1133_tooltip"><![CDATA[禍及下代]]></data>
-  <data name="zh_spotpolygon1134_tooltip"><![CDATA[新生兒戒斷症候群]]></data>
-  <data name="zh_spotpolygon1135_tooltip"><![CDATA[理性沉睡心魔生焉]]></data>
-  <data name="zh_spotpolygon1136_tooltip"><![CDATA[理性沉睡心魔生焉、未理性思考碰毒成癮的威脅]]></data>
-  <data name="zh_spotpolygon1137_tooltip"><![CDATA[亞當與夏娃(插畫)、受誘惑而碰毒成癮的威脅]]></data>
-  <data name="zh_spotpolygon1138_tooltip"><![CDATA[亞當與夏娃(插畫)]]></data>
+  <data name="zh_pano36_title"><![CDATA[A_7-1]]></data>
 
 
-  <data name="zh_pano35_title"><![CDATA[七、毒品成癮的可怕]]></data>
-  <data name="zh_spotpolygon1139_tooltip"><![CDATA[毒品成癮的可怕]]></data>
-  <data name="zh_spotpolygon1140_tooltip"><![CDATA[叛逆天使的墮落]]></data>
-  <data name="zh_spotpolygon1141_tooltip"><![CDATA[叛逆天使的墮落、毒癮的身心折磨]]></data>
-  <data name="zh_spotpolygon1142_tooltip"><![CDATA[被詛咒者 - 局部]]></data>
-  <data name="zh_spotpolygon1143_tooltip"><![CDATA[被詛咒者 - 局部、毒癮的心魔控制]]></data>
-  <data name="zh_spotpolygon1144_tooltip"><![CDATA[畫說成癮特展平面圖]]></data>
-
-
-  <data name="zh_pano36_title"><![CDATA[八、毒品成癮的戒治]]></data>
-  <data name="zh_spotpolygon1145_tooltip"><![CDATA[毒品成癮的戒治]]></data>
-  <data name="zh_spotpolygon1146_tooltip"><![CDATA[浪子回頭]]></data>
-  <data name="zh_spotpolygon1147_tooltip"><![CDATA[浪子回頭]]></data>
-  <data name="zh_spotpolygon1149_tooltip"><![CDATA[生命線]]></data>
-  <data name="zh_spotpolygon1150_tooltip"><![CDATA[戒毒生命線]]></data>
-  <data name="zh_spotpolygon1151_tooltip"><![CDATA[毒海回頭]]></data>
+  <data name="zh_pano37_title"><![CDATA[A_8-1]]></data>
 
 
 
 
-	<data name="zh_project_floor_title"><![CDATA[畫說成癮特展]]></data>
+	<data name="zh_project_floor_title"><![CDATA[畫說成癮]]></data>
+	<data name="zh_spotmap237_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap238_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap240_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap241_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap242_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap243_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap244_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap245_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap246_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap247_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap248_tooltip"><![CDATA[]]></data>
 	<data name="zh_spotmap249_tooltip"><![CDATA[]]></data>
 	<data name="zh_spotmap250_tooltip"><![CDATA[]]></data>
 	<data name="zh_spotmap251_tooltip"><![CDATA[]]></data>
@@ -185,18 +102,6 @@
 	<data name="zh_spotmap253_tooltip"><![CDATA[]]></data>
 	<data name="zh_spotmap254_tooltip"><![CDATA[]]></data>
 	<data name="zh_spotmap255_tooltip"><![CDATA[]]></data>
-	<data name="zh_spotmap256_tooltip"><![CDATA[]]></data>
-	<data name="zh_spotmap257_tooltip"><![CDATA[]]></data>
-	<data name="zh_spotmap258_tooltip"><![CDATA[]]></data>
-	<data name="zh_spotmap259_tooltip"><![CDATA[]]></data>
-	<data name="zh_spotmap260_tooltip"><![CDATA[]]></data>
-	<data name="zh_spotmap261_tooltip"><![CDATA[]]></data>
-	<data name="zh_spotmap262_tooltip"><![CDATA[]]></data>
-	<data name="zh_spotmap263_tooltip"><![CDATA[]]></data>
-	<data name="zh_spotmap264_tooltip"><![CDATA[]]></data>
-	<data name="zh_spotmap265_tooltip"><![CDATA[]]></data>
-	<data name="zh_spotmap266_tooltip"><![CDATA[]]></data>
-	<data name="zh_spotmap267_tooltip"><![CDATA[]]></data>
 
 
   <data name="zh_buttontooltip"><![CDATA[]]></data>
@@ -233,11 +138,6 @@
   <data name="zh_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
   <data name="zh_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
 
-
-  <data name="zh_project_description"><![CDATA[<span style="font-size:18px;">以三十多幅不同時期的畫作來闡述菸癮、酒癮、<wbr>毒癮等成癮問題，藉原尺寸複製知名藝術家的畫作，<wbr>從藝術品中看到物質成癮的人性問題與危害。<wbr>現場體驗區擺放成癮物質（酒精與毒品）影響體驗桌，<wbr>讓民眾體驗吸毒及酒後駕車的視線扭曲。歡迎對成癮議題有興趣，<wbr>及重視防毒教育的學校與家庭於展覽期間到館參觀，<wbr>為我們年輕一代及早種下預防成癮的種子。</span>]]></data>
-
-
-  <data name="zh_pano1350_description"><![CDATA[<div><font face="arial, sans-serif" size="2">畫說成癮特展</font></div><div><font face="arial, sans-serif" size="2">‧日期：2020/7/30 ~ 2020/11/22</font></div><div><font face="arial, sans-serif" size="2">‧地點：西屯路地下停車場B1自然科學藝術廊道</font></div><div><font face="arial, sans-serif" size="2">以三十多幅不同時期的畫作來闡述菸癮、酒癮、毒癮等成癮問題，藉原尺寸複製知名藝術家的畫作，從藝術品中看到物質成癮的人性問題與危害。現場體驗區擺放成癮物質（酒精與毒品）影響體驗桌，讓民眾體驗吸毒及酒後駕車的視線扭曲。歡迎對成癮議題有興趣，及重視防毒教育的學校與家庭於展覽期間到館參觀，為我們年輕一代及早種下預防成癮的種子。</font></div>]]></data>
 
 
 
