@@ -1840,59 +1840,59 @@ resumeautorotation(forcehotspot);
 					groupName="" 
 					url="floorplan/maps_300x277.png" 
 					title="project_floor_title"
-					heading="50">
-							<spot name="spotmap237" posX="0.366288006" posY="0.166666999" heading="-129.6000000000009" desc="spotmap237_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano18" jsClick="spotmap237ActionSpotFloorPlan">
+					heading="45">
+							<spot name="spotmap237" posX="0.366288006" posY="0.166666999" heading="-136.00000000000051" desc="spotmap237_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano18" jsClick="spotmap237ActionSpotFloorPlan">
 								<icon url="spots/maps-people_16x32_user_defaultmap01.png" iconWidth="16" iconHeight="32" iconAnchor="bottom" />
 							</spot>
-							<spot name="spotmap238" posX="0.213818863" posY="0.231547013" heading="56.199999999999363" desc="spotmap238_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano21" jsClick="spotmap238ActionSpotFloorPlan">
+							<spot name="spotmap238" posX="0.213818997" posY="0.231546998" heading="45.799999999999962" desc="spotmap238_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano21" jsClick="spotmap238ActionSpotFloorPlan">
 								<icon url="spots/maps-people_16x32_user_defaultmap01.png" iconWidth="16" iconHeight="32" iconAnchor="bottom" />
 							</spot>
-							<spot name="spotmap240" posX="0.0696920976" posY="0.235088006" heading="-21.599999999999941" desc="spotmap240_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano22" jsClick="spotmap240ActionSpotFloorPlan">
+							<spot name="spotmap240" posX="0.0696920976" posY="0.235088006" heading="-44.999999999999318" desc="spotmap240_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano22" jsClick="spotmap240ActionSpotFloorPlan">
 								<icon url="spots/maps-people_16x32_user_defaultmap01.png" iconWidth="16" iconHeight="32" iconAnchor="bottom" />
 							</spot>
-							<spot name="spotmap241" posX="0.0696920976" posY="0.356139988" heading="-7.5999999999997101" desc="spotmap241_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano23" jsClick="spotmap241ActionSpotFloorPlan">
+							<spot name="spotmap241" posX="0.0696920976" posY="0.356139988" heading="-31.39999999999992" desc="spotmap241_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano23" jsClick="spotmap241ActionSpotFloorPlan">
 								<icon url="spots/maps-people_16x32_user_defaultmap01.png" iconWidth="16" iconHeight="32" iconAnchor="bottom" />
 							</spot>
-							<spot name="spotmap242" posX="0.0680712983" posY="0.475439012" heading="-21.20000000000061" desc="spotmap242_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano24" jsClick="spotmap242ActionSpotFloorPlan">
+							<spot name="spotmap242" posX="0.0680712983" posY="0.475439012" heading="-45.600000000000648" desc="spotmap242_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano24" jsClick="spotmap242ActionSpotFloorPlan">
 								<icon url="spots/maps-people_16x32_user_defaultmap01.png" iconWidth="16" iconHeight="32" iconAnchor="bottom" />
 							</spot>
-							<spot name="spotmap243" posX="0.0664506033" posY="0.580702007" heading="-124.8000000000003" desc="spotmap243_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano25" jsClick="spotmap243ActionSpotFloorPlan">
+							<spot name="spotmap243" posX="0.0664506033" posY="0.580702007" heading="-136.80000000000021" desc="spotmap243_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano25" jsClick="spotmap243ActionSpotFloorPlan">
 								<icon url="spots/maps-people_16x32_user_defaultmap01.png" iconWidth="16" iconHeight="32" iconAnchor="bottom" />
 							</spot>
-							<spot name="spotmap244" posX="0.427877009" posY="0.229825005" heading="52.799999999999393" desc="spotmap244_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano26" jsClick="spotmap244ActionSpotFloorPlan">
+							<spot name="spotmap244" posX="0.427877009" posY="0.229825005" heading="43.199999999999818" desc="spotmap244_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano26" jsClick="spotmap244ActionSpotFloorPlan">
 								<icon url="spots/maps-people_16x32_user_defaultmap01.png" iconWidth="16" iconHeight="32" iconAnchor="bottom" />
 							</spot>
-							<spot name="spotmap245" posX="0.491086006" posY="0.229825005" heading="54.399999999999856" desc="spotmap245_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano27" jsClick="spotmap245ActionSpotFloorPlan">
+							<spot name="spotmap245" posX="0.491086006" posY="0.229825005" heading="46.199999999999818" desc="spotmap245_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano27" jsClick="spotmap245ActionSpotFloorPlan">
 								<icon url="spots/maps-people_16x32_user_defaultmap01.png" iconWidth="16" iconHeight="32" iconAnchor="bottom" />
 							</spot>
-							<spot name="spotmap246" posX="0.570501983" posY="0.27719301" heading="-70.199999999999804" desc="spotmap246_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano28" jsClick="spotmap246ActionSpotFloorPlan">
+							<spot name="spotmap246" posX="0.570501983" posY="0.27719301" heading="-79.199999999999932" desc="spotmap246_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano28" jsClick="spotmap246ActionSpotFloorPlan">
 								<icon url="spots/maps-people_16x32_user_defaultmap01.png" iconWidth="16" iconHeight="32" iconAnchor="bottom" />
 							</spot>
-							<spot name="spotmap247" posX="0.656401992" posY="0.377193004" heading="101.7999999999997" desc="spotmap247_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano29" jsClick="spotmap247ActionSpotFloorPlan">
+							<spot name="spotmap247" posX="0.656401992" posY="0.377193004" heading="88.799999999999955" desc="spotmap247_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano29" jsClick="spotmap247ActionSpotFloorPlan">
 								<icon url="spots/maps-people_16x32_user_defaultmap01.png" iconWidth="16" iconHeight="32" iconAnchor="bottom" />
 							</spot>
-							<spot name="spotmap248" posX="0.756887972" posY="0.478947014" heading="99.799999999999784" desc="spotmap248_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano30" jsClick="spotmap248ActionSpotFloorPlan">
+							<spot name="spotmap248" posX="0.756887972" posY="0.478947014" heading="90" desc="spotmap248_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano30" jsClick="spotmap248ActionSpotFloorPlan">
 								<icon url="spots/maps-people_16x32_user_defaultmap01.png" iconWidth="16" iconHeight="32" iconAnchor="bottom" />
 							</spot>
-							<spot name="spotmap249" posX="0.865477979" posY="0.598245978" heading="123.5999999999997" desc="spotmap249_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano31" jsClick="spotmap249ActionSpotFloorPlan">
+							<spot name="spotmap249" posX="0.865477979" posY="0.598245978" heading="89.199999999999761" desc="spotmap249_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano31" jsClick="spotmap249ActionSpotFloorPlan">
 								<icon url="spots/maps-people_16x32_user_defaultmap01.png" iconWidth="16" iconHeight="32" iconAnchor="bottom" />
 							</spot>
-							<spot name="spotmap250" posX="0.941653013" posY="0.664911985" heading="90.999999999999829" desc="spotmap250_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano32" jsClick="spotmap250ActionSpotFloorPlan">
+							<spot name="spotmap250" posX="0.941653013" posY="0.664911985" heading="89.799999999999898" desc="spotmap250_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano32" jsClick="spotmap250ActionSpotFloorPlan">
 								<icon url="spots/maps-people_16x32_user_defaultmap01.png" iconWidth="16" iconHeight="32" iconAnchor="bottom" />
 							</spot>
-							<spot name="spotmap251" posX="0.925445974" posY="0.705263019" heading="170.80000000000001" desc="spotmap251_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano33" jsClick="spotmap251ActionSpotFloorPlan">
+							<spot name="spotmap251" posX="0.925445974" posY="0.705263019" heading="-177.60000000000079" desc="spotmap251_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano33" jsClick="spotmap251ActionSpotFloorPlan">
 								<icon url="spots/maps-people_16x32_user_defaultmap01.png" iconWidth="16" iconHeight="32" iconAnchor="bottom" />
 							</spot>
-							<spot name="spotmap252" posX="0.891409993" posY="0.680701971" heading="-169.79999999999939" desc="spotmap252_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano34" jsClick="spotmap252ActionSpotFloorPlan">
+							<spot name="spotmap252" posX="0.891409993" posY="0.680701971" heading="178.80000000000041" desc="spotmap252_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano34" jsClick="spotmap252ActionSpotFloorPlan">
 								<icon url="spots/maps-people_16x32_user_defaultmap01.png" iconWidth="16" iconHeight="32" iconAnchor="bottom" />
 							</spot>
-							<spot name="spotmap253" posX="0.802268982" posY="0.745613992" heading="-169.60000000000039" desc="spotmap253_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano35" jsClick="spotmap253ActionSpotFloorPlan">
+							<spot name="spotmap253" posX="0.802268982" posY="0.745613992" heading="-179.80000000000049" desc="spotmap253_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano35" jsClick="spotmap253ActionSpotFloorPlan">
 								<icon url="spots/maps-people_16x32_user_defaultmap01.png" iconWidth="16" iconHeight="32" iconAnchor="bottom" />
 							</spot>
-							<spot name="spotmap254" posX="0.740680993" posY="0.829824984" heading="-169.2000000000005" desc="spotmap254_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano36" jsClick="spotmap254ActionSpotFloorPlan">
+							<spot name="spotmap254" posX="0.740680993" posY="0.829824984" heading="178.59999999999931" desc="spotmap254_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano36" jsClick="spotmap254ActionSpotFloorPlan">
 								<icon url="spots/maps-people_16x32_user_defaultmap01.png" iconWidth="16" iconHeight="32" iconAnchor="bottom" />
 							</spot>
-							<spot name="spotmap255" posX="0.682334006" posY="0.922806978" heading="-17.600000000000168" desc="spotmap255_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano37" jsClick="spotmap255ActionSpotFloorPlan">
+							<spot name="spotmap255" posX="0.682334006" posY="0.922806978" heading="-29.399999999999981" desc="spotmap255_tooltip" descType="tooltip" groupName="" isScene="true" planar="false" scene="pano37" jsClick="spotmap255ActionSpotFloorPlan">
 								<icon url="spots/maps-people_16x32_user_defaultmap01.png" iconWidth="16" iconHeight="32" iconAnchor="bottom" />
 							</spot>
 				</floorplanItem>
@@ -2286,106 +2286,6 @@ resumeautorotation(forcehotspot);
 	/>
 	
 
-<action name="viewControlMoveUp">
-	if(%1,
-		if(%2,
-			set(isfullvertical, false);
-			ifnot(scene[get(xml.scene)].planar,
-				sub(viewvfov, panoview.vmax, panoview.vmin);
-				if (viewvfov == 180,
-					set(isfullvertical, true);
-				);
-			);
-			if(isfullvertical == false AND calc(view.vlookat-%2) LT view.vlookatmin,
-				moveto(get(view.hlookat), get(view.vlookatmin));
-			,
-				moveto(get(view.hlookat), calc(view.vlookat-%2));
-			);
-		,
-			set(vlookat_moveforce, -1);
-			delayedcall(0.1, viewControlMoveVertStop());
-		);
-	,
-		set(vlookat_moveforce, -1);
-	);
-</action>
-<action name="viewControlMoveDown">
-	if(%1,
-		if(%2,
-			set(isfullvertical, false);
-			ifnot(scene[get(xml.scene)].planar,
-				sub(viewvfov, panoview.vmax, panoview.vmin);
-				if (viewvfov == 180,
-					set(isfullvertical, true);
-				);
-			);
-			if(sceneisfull360 == false AND calc(view.vlookat+%2) GT view.vlookatmax,
-				moveto(get(view.hlookat), get(view.vlookatmax));
-			,
-				moveto(get(view.hlookat), calc(view.vlookat+%2));
-			);
-		,
-			set(vlookat_moveforce, +1);
-			delayedcall(0.1, viewControlMoveVertStop());
-		);
-	,
-		set(vlookat_moveforce, +1);
-	);
-</action>
-<action name="viewControlMoveLeft">
-	if(%1,
-		if(%2,
-			set(isfullhorizontal, false);
-			ifnot(scene[get(xml.scene)].planar,
-				sub(viewhfov, panoview.hmax, panoview.hmin);
-				if (viewhfov == 360,
-					set(isfullhorizontal, true);
-				);
-			);
-			if(isfullhorizontal == false AND calc(view.hlookat-%2) LT view.hlookatmin,
-				moveto(get(view.hlookatmin), get(view.vlookat));
-			,
-				moveto(calc(view.hlookat-%2), get(view.vlookat));
-			);
-		,
-			set(hlookat_moveforce, -1);
-			delayedcall(0.1, viewControlMoveHoriStop());
-		);
-	,
-		set(hlookat_moveforce, -1);
-	);
-</action>
-<action name="viewControlMoveRight">
-	if(%1,
-		if(%2,
-			set(isfullhorizontal, false);
-			ifnot(scene[get(xml.scene)].planar,
-				sub(viewhfov, panoview.hmax, panoview.hmin);
-				if (viewhfov == 360,
-					set(isfullhorizontal, true);
-				);
-			);
-			if(isfullhorizontal == false AND calc(view.hlookat+%2) GT view.hlookatmax,
-				moveto(get(view.hlookatmax), get(view.vlookat));
-			,
-				moveto(calc(view.hlookat+%2), get(view.vlookat));
-			);
-		,
-			set(hlookat_moveforce, +1);
-			delayedcall(0.1, viewControlMoveHoriStop());
-			
-		);
-	,
-		set(hlookat_moveforce, +1);
-	);
-</action>
-<action name="viewControlMoveHoriStop">
-	set(hlookat_moveforce, 0);
-</action>
-<action name="viewControlMoveVertStop">
-	set(vlookat_moveforce, 0);
-</action>
-
 <action name="viewControlZoomIn">
 	if(%1,
 		if(%2,
@@ -2430,23 +2330,6 @@ resumeautorotation(forcehotspot);
   <action name="hideTourControls">set(tour_displaycontrols, false);events.dispatch(hidetourcontrols);</action>
   <action name="showTourControls">set(tour_displaycontrols, true); events.dispatch(showtourcontrols);</action>
 
-
-  <!-- Fullscreen Management -->
-  <action name="exitFullScreen" devices="fullscreensupport">set(tour_fullscreen,false);js(setFullscreen(false));</action>
-  <action name="enterFullScreen" devices="fullscreensupport">set(tour_fullscreen,true);js(setFullscreen(true));</action>
-  <action name="switchFullScreen">if(tour_fullscreen,exitFullScreen();,enterFullScreen(););</action>
-
-  
-  <events name="krpanoExitFullscreenEvent"
-    onexitfullscreen="if(tour_fullscreen,exitFullScreenChangeEvent(););"
-    keep="true" />
-
-  <action name="exitFullScreenChangeEvent" devices="fullscreensupport">set(tour_fullscreen,false);events.dispatch(onexitfullscreen);</action>
-  <action name="enterFullScreenChangeEvent" devices="fullscreensupport">set(tour_fullscreen,true);events.dispatch(onenterfullscreen);</action>
-  <action name="exitFullScreenFallback">set(fullscreen,false);</action>
-  <action name="enterFullScreenFallback">set(fullscreen,true);</action>
-  
-  <action name="resizeFullScreenEvent">delayedcall(0,updatescreen(););</action>
 
   <!-- FLOORPLAN -->
   <action name="hideFloorplan">set(tour_displayfloorplan, false);events.dispatch(onhidetourfloorplan);</action>
@@ -2629,6 +2512,106 @@ resumeautorotation(forcehotspot);
     ););
   </action>
 
+
+<action name="viewControlMoveUp">
+	if(%1,
+		if(%2,
+			set(isfullvertical, false);
+			ifnot(scene[get(xml.scene)].planar,
+				sub(viewvfov, panoview.vmax, panoview.vmin);
+				if (viewvfov == 180,
+					set(isfullvertical, true);
+				);
+			);
+			if(isfullvertical == false AND calc(view.vlookat-%2) LT view.vlookatmin,
+				moveto(get(view.hlookat), get(view.vlookatmin));
+			,
+				moveto(get(view.hlookat), calc(view.vlookat-%2));
+			);
+		,
+			set(vlookat_moveforce, -1);
+			delayedcall(0.1, viewControlMoveVertStop());
+		);
+	,
+		set(vlookat_moveforce, -1);
+	);
+</action>
+<action name="viewControlMoveDown">
+	if(%1,
+		if(%2,
+			set(isfullvertical, false);
+			ifnot(scene[get(xml.scene)].planar,
+				sub(viewvfov, panoview.vmax, panoview.vmin);
+				if (viewvfov == 180,
+					set(isfullvertical, true);
+				);
+			);
+			if(sceneisfull360 == false AND calc(view.vlookat+%2) GT view.vlookatmax,
+				moveto(get(view.hlookat), get(view.vlookatmax));
+			,
+				moveto(get(view.hlookat), calc(view.vlookat+%2));
+			);
+		,
+			set(vlookat_moveforce, +1);
+			delayedcall(0.1, viewControlMoveVertStop());
+		);
+	,
+		set(vlookat_moveforce, +1);
+	);
+</action>
+<action name="viewControlMoveLeft">
+	if(%1,
+		if(%2,
+			set(isfullhorizontal, false);
+			ifnot(scene[get(xml.scene)].planar,
+				sub(viewhfov, panoview.hmax, panoview.hmin);
+				if (viewhfov == 360,
+					set(isfullhorizontal, true);
+				);
+			);
+			if(isfullhorizontal == false AND calc(view.hlookat-%2) LT view.hlookatmin,
+				moveto(get(view.hlookatmin), get(view.vlookat));
+			,
+				moveto(calc(view.hlookat-%2), get(view.vlookat));
+			);
+		,
+			set(hlookat_moveforce, -1);
+			delayedcall(0.1, viewControlMoveHoriStop());
+		);
+	,
+		set(hlookat_moveforce, -1);
+	);
+</action>
+<action name="viewControlMoveRight">
+	if(%1,
+		if(%2,
+			set(isfullhorizontal, false);
+			ifnot(scene[get(xml.scene)].planar,
+				sub(viewhfov, panoview.hmax, panoview.hmin);
+				if (viewhfov == 360,
+					set(isfullhorizontal, true);
+				);
+			);
+			if(isfullhorizontal == false AND calc(view.hlookat+%2) GT view.hlookatmax,
+				moveto(get(view.hlookatmax), get(view.vlookat));
+			,
+				moveto(calc(view.hlookat+%2), get(view.vlookat));
+			);
+		,
+			set(hlookat_moveforce, +1);
+			delayedcall(0.1, viewControlMoveHoriStop());
+			
+		);
+	,
+		set(hlookat_moveforce, +1);
+	);
+</action>
+<action name="viewControlMoveHoriStop">
+	set(hlookat_moveforce, 0);
+</action>
+<action name="viewControlMoveVertStop">
+	set(vlookat_moveforce, 0);
+</action>
 
   <action name="displayVideo">
     set(displayedVideoObjectToCreate, true);
@@ -2818,5 +2801,22 @@ resumeautorotation(forcehotspot);
       );
     );
   </action>
+
+  <!-- Fullscreen Management -->
+  <action name="exitFullScreen" devices="fullscreensupport">set(tour_fullscreen,false);js(setFullscreen(false));</action>
+  <action name="enterFullScreen" devices="fullscreensupport">set(tour_fullscreen,true);js(setFullscreen(true));</action>
+  <action name="switchFullScreen">if(tour_fullscreen,exitFullScreen();,enterFullScreen(););</action>
+
+  
+  <events name="krpanoExitFullscreenEvent"
+    onexitfullscreen="if(tour_fullscreen,exitFullScreenChangeEvent(););"
+    keep="true" />
+
+  <action name="exitFullScreenChangeEvent" devices="fullscreensupport">set(tour_fullscreen,false);events.dispatch(onexitfullscreen);</action>
+  <action name="enterFullScreenChangeEvent" devices="fullscreensupport">set(tour_fullscreen,true);events.dispatch(onenterfullscreen);</action>
+  <action name="exitFullScreenFallback">set(fullscreen,false);</action>
+  <action name="enterFullScreenFallback">set(fullscreen,true);</action>
+  
+  <action name="resizeFullScreenEvent">delayedcall(0,updatescreen(););</action>
 
 </krpano>
