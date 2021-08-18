@@ -1,0 +1,1336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano version="1.19-pr16">
+
+    
+  <!-- Spot Style - 參觀入口 -->
+
+
+  <style name="Icon參觀入口"
+         url="%FIRSTXML%/spots/point00_user_defaultpoint0.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon參觀入口"
+         onover="onoverIcon參觀入口"
+         onout="onoutIcon參觀入口"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon參觀入口">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon參觀入口">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon參觀入口">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 1 蒙娜麗莎遇見海洛英 -->
+
+
+  <style name="Icon1蒙娜麗莎遇見海洛英"
+         url="%FIRSTXML%/spots/point01_user_defaultpoint1.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon1蒙娜麗莎遇見海洛英"
+         onover="onoverIcon1蒙娜麗莎遇見海洛英"
+         onout="onoutIcon1蒙娜麗莎遇見海洛英"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon1蒙娜麗莎遇見海洛英">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon1蒙娜麗莎遇見海洛英">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon1蒙娜麗莎遇見海洛英">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 2 毒品或藥品兩面相圖 -->
+
+
+  <style name="Icon2毒品或藥品兩面相圖"
+         url="%FIRSTXML%/spots/point02_user_defaultpoint2.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon2毒品或藥品兩面相圖"
+         onover="onoverIcon2毒品或藥品兩面相圖"
+         onout="onoutIcon2毒品或藥品兩面相圖"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon2毒品或藥品兩面相圖">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon2毒品或藥品兩面相圖">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon2毒品或藥品兩面相圖">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 4 人子遇見罌粟花 -->
+
+
+  <style name="Icon4人子遇見罌粟花"
+         url="%FIRSTXML%/spots/point04_user_defaultpoint3.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon4人子遇見罌粟花"
+         onover="onoverIcon4人子遇見罌粟花"
+         onout="onoutIcon4人子遇見罌粟花"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon4人子遇見罌粟花">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon4人子遇見罌粟花">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon4人子遇見罌粟花">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 3 毒理學之父–帕拉塞爾蘇斯遇見鴉片酊 -->
+
+
+  <style name="Icon3毒理學之父–帕拉塞爾蘇斯遇見鴉片酊"
+         url="%FIRSTXML%/spots/point03_user_defaultpoint4.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon3毒理學之父–帕拉塞爾蘇斯遇見鴉片酊"
+         onover="onoverIcon3毒理學之父–帕拉塞爾蘇斯遇見鴉片酊"
+         onout="onoutIcon3毒理學之父–帕拉塞爾蘇斯遇見鴉片酊"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon3毒理學之父–帕拉塞爾蘇斯遇見鴉片酊">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon3毒理學之父–帕拉塞爾蘇斯遇見鴉片酊">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon3毒理學之父–帕拉塞爾蘇斯遇見鴉片酊">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 6 鴉片危害的歌曲影片 -->
+
+
+  <style name="Icon6鴉片危害的歌曲影片"
+         url="%FIRSTXML%/spots/point06_user_defaultpoint5.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon6鴉片危害的歌曲影片"
+         onover="onoverIcon6鴉片危害的歌曲影片"
+         onout="onoutIcon6鴉片危害的歌曲影片"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon6鴉片危害的歌曲影片">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon6鴉片危害的歌曲影片">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon6鴉片危害的歌曲影片">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 5 愁城十二景 -->
+
+
+  <style name="Icon5愁城十二景"
+         url="%FIRSTXML%/spots/point05_user_defaultpoint6.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon5愁城十二景"
+         onover="onoverIcon5愁城十二景"
+         onout="onoutIcon5愁城十二景"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon5愁城十二景">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon5愁城十二景">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon5愁城十二景">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 7 一朝吸毒．十年戒毒 終身想毒幻視合影牆 -->
+
+
+  <style name="Icon7一朝吸毒．十年戒毒終身想毒幻視合影牆"
+         url="%FIRSTXML%/spots/point07_user_defaultpoint7.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon7一朝吸毒．十年戒毒終身想毒幻視合影牆"
+         onover="onoverIcon7一朝吸毒．十年戒毒終身想毒幻視合影牆"
+         onout="onoutIcon7一朝吸毒．十年戒毒終身想毒幻視合影牆"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon7一朝吸毒．十年戒毒終身想毒幻視合影牆">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon7一朝吸毒．十年戒毒終身想毒幻視合影牆">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon7一朝吸毒．十年戒毒終身想毒幻視合影牆">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 7 一朝吸毒．十年戒毒 終身想毒幻視合影牆  8 毒品成癮機制 -->
+
+
+  <style name="Icon7一朝吸毒．十年戒毒終身想毒幻視合影牆8毒品成癮機制"
+         url="%FIRSTXML%/spots/point07and08_user_defaultpoint8.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon7一朝吸毒．十年戒毒終身想毒幻視合影牆8毒品成癮機制"
+         onover="onoverIcon7一朝吸毒．十年戒毒終身想毒幻視合影牆8毒品成癮機制"
+         onout="onoutIcon7一朝吸毒．十年戒毒終身想毒幻視合影牆8毒品成癮機制"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon7一朝吸毒．十年戒毒終身想毒幻視合影牆8毒品成癮機制">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon7一朝吸毒．十年戒毒終身想毒幻視合影牆8毒品成癮機制">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon7一朝吸毒．十年戒毒終身想毒幻視合影牆8毒品成癮機制">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 8 毒品成癮機制  9 樂極生悲 人工智慧運算生成圖 -->
+
+
+  <style name="Icon8毒品成癮機制9樂極生悲人工智慧運算生成圖"
+         url="%FIRSTXML%/spots/point08and09_user_defaultpoint9.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon8毒品成癮機制9樂極生悲人工智慧運算生成圖"
+         onover="onoverIcon8毒品成癮機制9樂極生悲人工智慧運算生成圖"
+         onout="onoutIcon8毒品成癮機制9樂極生悲人工智慧運算生成圖"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon8毒品成癮機制9樂極生悲人工智慧運算生成圖">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon8毒品成癮機制9樂極生悲人工智慧運算生成圖">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon8毒品成癮機制9樂極生悲人工智慧運算生成圖">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 10 鴉片之害 -->
+
+
+  <style name="Icon10鴉片之害"
+         url="%FIRSTXML%/spots/point10_user_defaultpoint10.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon10鴉片之害"
+         onover="onoverIcon10鴉片之害"
+         onout="onoutIcon10鴉片之害"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon10鴉片之害">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon10鴉片之害">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon10鴉片之害">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 10_1 鴉片之害 -->
+
+
+  <style name="Icon10-1鴉片之害"
+         url="%FIRSTXML%/spots/point10-1_user_defaultpoint11.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon10-1鴉片之害"
+         onover="onoverIcon10-1鴉片之害"
+         onout="onoutIcon10-1鴉片之害"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon10-1鴉片之害">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon10-1鴉片之害">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon10-1鴉片之害">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 10_2 鴉片之害 -->
+
+
+  <style name="Icon10-2鴉片之害"
+         url="%FIRSTXML%/spots/point10-2_user_defaultpoint12.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon10-2鴉片之害"
+         onover="onoverIcon10-2鴉片之害"
+         onout="onoutIcon10-2鴉片之害"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon10-2鴉片之害">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon10-2鴉片之害">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon10-2鴉片之害">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 10_3 鴉片之害 -->
+
+
+  <style name="Icon10-3鴉片之害"
+         url="%FIRSTXML%/spots/point10-3_user_defaultpoint13.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon10-3鴉片之害"
+         onover="onoverIcon10-3鴉片之害"
+         onout="onoutIcon10-3鴉片之害"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon10-3鴉片之害">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon10-3鴉片之害">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon10-3鴉片之害">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 11 江湖郎中改賣鴉片類管制品 -->
+
+
+  <style name="Icon11江湖郎中改賣鴉片類管制品"
+         url="%FIRSTXML%/spots/point11_user_defaultpoint14.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon11江湖郎中改賣鴉片類管制品"
+         onover="onoverIcon11江湖郎中改賣鴉片類管制品"
+         onout="onoutIcon11江湖郎中改賣鴉片類管制品"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon11江湖郎中改賣鴉片類管制品">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon11江湖郎中改賣鴉片類管制品">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon11江湖郎中改賣鴉片類管制品">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 12 潘朵拉打開毒害之盒 -->
+
+
+  <style name="Icon12潘朵拉打開毒害之盒"
+         url="%FIRSTXML%/spots/point12_user_defaultpoint15.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon12潘朵拉打開毒害之盒"
+         onover="onoverIcon12潘朵拉打開毒害之盒"
+         onout="onoutIcon12潘朵拉打開毒害之盒"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon12潘朵拉打開毒害之盒">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon12潘朵拉打開毒害之盒">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon12潘朵拉打開毒害之盒">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 13 當頑童在城市後街一起吸毒 -->
+
+
+  <style name="Icon13當頑童在城市後街一起吸毒"
+         url="%FIRSTXML%/spots/point13_user_defaultpoint16.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon13當頑童在城市後街一起吸毒"
+         onover="onoverIcon13當頑童在城市後街一起吸毒"
+         onout="onoutIcon13當頑童在城市後街一起吸毒"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon13當頑童在城市後街一起吸毒">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon13當頑童在城市後街一起吸毒">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon13當頑童在城市後街一起吸毒">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 14 從抽煙到吸毒 -->
+
+
+  <style name="Icon14從抽煙到吸毒"
+         url="%FIRSTXML%/spots/point14_user_defaultpoint17.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon14從抽煙到吸毒"
+         onover="onoverIcon14從抽煙到吸毒"
+         onout="onoutIcon14從抽煙到吸毒"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon14從抽煙到吸毒">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon14從抽煙到吸毒">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon14從抽煙到吸毒">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 15 人類濫用成癮藥物的墮落 -->
+
+
+  <style name="Icon15人類濫用成癮藥物的墮落"
+         url="%FIRSTXML%/spots/point15_user_defaultpoint18.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon15人類濫用成癮藥物的墮落"
+         onover="onoverIcon15人類濫用成癮藥物的墮落"
+         onout="onoutIcon15人類濫用成癮藥物的墮落"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon15人類濫用成癮藥物的墮落">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon15人類濫用成癮藥物的墮落">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon15人類濫用成癮藥物的墮落">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 16 悲傷的老人碰毒成癮 -->
+
+
+  <style name="Icon16悲傷的老人碰毒成癮"
+         url="%FIRSTXML%/spots/point16_user_defaultpoint19.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon16悲傷的老人碰毒成癮"
+         onover="onoverIcon16悲傷的老人碰毒成癮"
+         onout="onoutIcon16悲傷的老人碰毒成癮"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon16悲傷的老人碰毒成癮">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon16悲傷的老人碰毒成癮">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon16悲傷的老人碰毒成癮">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 17 戴珍珠耳環的少女遇見 LSD -->
+
+
+  <style name="Icon17戴珍珠耳環的少女遇見LSD"
+         url="%FIRSTXML%/spots/point17_user_defaultpoint20.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon17戴珍珠耳環的少女遇見LSD"
+         onover="onoverIcon17戴珍珠耳環的少女遇見LSD"
+         onout="onoutIcon17戴珍珠耳環的少女遇見LSD"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon17戴珍珠耳環的少女遇見LSD">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon17戴珍珠耳環的少女遇見LSD">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon17戴珍珠耳環的少女遇見LSD">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 18 逃避批評男孩遇見搖頭丸 -->
+
+
+  <style name="Icon18逃避批評男孩遇見搖頭丸"
+         url="%FIRSTXML%/spots/point18_user_defaultpoint21.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon18逃避批評男孩遇見搖頭丸"
+         onover="onoverIcon18逃避批評男孩遇見搖頭丸"
+         onout="onoutIcon18逃避批評男孩遇見搖頭丸"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon18逃避批評男孩遇見搖頭丸">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon18逃避批評男孩遇見搖頭丸">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon18逃避批評男孩遇見搖頭丸">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 19 魯特琴男孩遇見冰毒 -->
+
+
+  <style name="Icon19魯特琴男孩遇見冰毒"
+         url="%FIRSTXML%/spots/point19_user_defaultpoint22.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon19魯特琴男孩遇見冰毒"
+         onover="onoverIcon19魯特琴男孩遇見冰毒"
+         onout="onoutIcon19魯特琴男孩遇見冰毒"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon19魯特琴男孩遇見冰毒">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon19魯特琴男孩遇見冰毒">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon19魯特琴男孩遇見冰毒">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 20 安非他命的夢魘 -->
+
+
+  <style name="Icon20安非他命的夢魘"
+         url="%FIRSTXML%/spots/point20_user_defaultpoint23.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon20安非他命的夢魘"
+         onover="onoverIcon20安非他命的夢魘"
+         onout="onoutIcon20安非他命的夢魘"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon20安非他命的夢魘">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon20安非他命的夢魘">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon20安非他命的夢魘">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 21 鏡前的維納斯遇見減肥毒品 -->
+
+
+  <style name="Icon21鏡前的維納斯遇見減肥毒品"
+         url="%FIRSTXML%/spots/point21_user_defaultpoint24.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon21鏡前的維納斯遇見減肥毒品"
+         onover="onoverIcon21鏡前的維納斯遇見減肥毒品"
+         onout="onoutIcon21鏡前的維納斯遇見減肥毒品"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon21鏡前的維納斯遇見減肥毒品">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon21鏡前的維納斯遇見減肥毒品">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon21鏡前的維納斯遇見減肥毒品">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 22 形象的叛逆 煙斗遇見大麻 -->
+
+
+  <style name="Icon22形象的叛逆煙斗遇見大麻"
+         url="%FIRSTXML%/spots/point22_user_defaultpoint25.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon22形象的叛逆煙斗遇見大麻"
+         onover="onoverIcon22形象的叛逆煙斗遇見大麻"
+         onout="onoutIcon22形象的叛逆煙斗遇見大麻"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon22形象的叛逆煙斗遇見大麻">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon22形象的叛逆煙斗遇見大麻">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon22形象的叛逆煙斗遇見大麻">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 23 噴泉小便斗遇見 k 他命 -->
+
+
+  <style name="Icon23噴泉小便斗遇見k他命"
+         url="%FIRSTXML%/spots/point23_user_defaultpoint26.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon23噴泉小便斗遇見k他命"
+         onover="onoverIcon23噴泉小便斗遇見k他命"
+         onout="onoutIcon23噴泉小便斗遇見k他命"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon23噴泉小便斗遇見k他命">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon23噴泉小便斗遇見k他命">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon23噴泉小便斗遇見k他命">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 24 虛假的鏡子遇見毒品 -->
+
+
+  <style name="Icon24虛假的鏡子遇見毒品"
+         url="%FIRSTXML%/spots/point24_user_defaultpoint27.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon24虛假的鏡子遇見毒品"
+         onover="onoverIcon24虛假的鏡子遇見毒品"
+         onout="onoutIcon24虛假的鏡子遇見毒品"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon24虛假的鏡子遇見毒品">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon24虛假的鏡子遇見毒品">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon24虛假的鏡子遇見毒品">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 25 亞當與夏娃遇見藥頭蛇 -->
+
+
+  <style name="Icon25亞當與夏娃遇見藥頭蛇"
+         url="%FIRSTXML%/spots/point25_user_defaultpoint28.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon25亞當與夏娃遇見藥頭蛇"
+         onover="onoverIcon25亞當與夏娃遇見藥頭蛇"
+         onout="onoutIcon25亞當與夏娃遇見藥頭蛇"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon25亞當與夏娃遇見藥頭蛇">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon25亞當與夏娃遇見藥頭蛇">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon25亞當與夏娃遇見藥頭蛇">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 26 女算命師變成販賣毒咖啡包的毒販 -->
+
+
+  <style name="Icon26女算命師變成販賣毒咖啡包的毒販"
+         url="%FIRSTXML%/spots/point26_user_defaultpoint29.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon26女算命師變成販賣毒咖啡包的毒販"
+         onover="onoverIcon26女算命師變成販賣毒咖啡包的毒販"
+         onout="onoutIcon26女算命師變成販賣毒咖啡包的毒販"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon26女算命師變成販賣毒咖啡包的毒販">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon26女算命師變成販賣毒咖啡包的毒販">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon26女算命師變成販賣毒咖啡包的毒販">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 27 納西索斯遇見吸毒後的納西索斯 -->
+
+
+  <style name="Icon27納西索斯遇見吸毒後的納西索斯"
+         url="%FIRSTXML%/spots/point27_user_defaultpoint30.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon27納西索斯遇見吸毒後的納西索斯"
+         onover="onoverIcon27納西索斯遇見吸毒後的納西索斯"
+         onout="onoutIcon27納西索斯遇見吸毒後的納西索斯"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon27納西索斯遇見吸毒後的納西索斯">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon27納西索斯遇見吸毒後的納西索斯">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon27納西索斯遇見吸毒後的納西索斯">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 28 吸毒大腦在吶喊 -->
+
+
+  <style name="Icon28吸毒大腦在吶喊"
+         url="%FIRSTXML%/spots/point28_user_defaultpoint31.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon28吸毒大腦在吶喊"
+         onover="onoverIcon28吸毒大腦在吶喊"
+         onout="onoutIcon28吸毒大腦在吶喊"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon28吸毒大腦在吶喊">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon28吸毒大腦在吶喊">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon28吸毒大腦在吶喊">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 28_1 吸毒大腦在吶喊 -->
+
+
+  <style name="Icon28-1吸毒大腦在吶喊"
+         url="%FIRSTXML%/spots/point28-1_user_defaultpoint32.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon28-1吸毒大腦在吶喊"
+         onover="onoverIcon28-1吸毒大腦在吶喊"
+         onout="onoutIcon28-1吸毒大腦在吶喊"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon28-1吸毒大腦在吶喊">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon28-1吸毒大腦在吶喊">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon28-1吸毒大腦在吶喊">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 29 當毒品進入家庭動態影片 -->
+
+
+  <style name="Icon29當毒品進入家庭動態影片"
+         url="%FIRSTXML%/spots/point29_user_defaultpoint33.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon29當毒品進入家庭動態影片"
+         onover="onoverIcon29當毒品進入家庭動態影片"
+         onout="onoutIcon29當毒品進入家庭動態影片"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon29當毒品進入家庭動態影片">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon29當毒品進入家庭動態影片">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon29當毒品進入家庭動態影片">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 30 浪子毒海回頭 -->
+
+
+  <style name="Icon30浪子毒海回頭"
+         url="%FIRSTXML%/spots/point30_user_defaultpoint34.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon30浪子毒海回頭"
+         onover="onoverIcon30浪子毒海回頭"
+         onout="onoutIcon30浪子毒海回頭"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon30浪子毒海回頭">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon30浪子毒海回頭">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon30浪子毒海回頭">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+    
+  <!-- Spot Style - 31 潘朵拉盒內的戒毒希望 -->
+
+
+  <style name="Icon31潘朵拉盒內的戒毒希望"
+         url="%FIRSTXML%/spots/point31_user_defaultpoint35.png"
+         visible="false"
+         edge="bottom" ox="0" oy="0"
+         zoom="true"
+
+         onloaded="if(scene[get(xml.scene)].planar,if(zoom,set(zoom, false);););showPermanentTooltip(touch, bottom);"
+         onhover="onhoverIcon31潘朵拉盒內的戒毒希望"
+         onover="onoverIcon31潘朵拉盒內的戒毒希望"
+         onout="onoutIcon31潘朵拉盒內的戒毒希望"
+
+         height="64"
+         width="36"
+         />
+  <action name="onhoverIcon31潘朵拉盒內的戒毒希望">
+    showtooltip('hotspot');
+  </action>
+  <action name="onoverIcon31潘朵拉盒內的戒毒希望">
+tween(scale, 1.2);
+
+pauseautorotation(forcehotspot);
+
+  </action>
+  <action name="onoutIcon31潘朵拉盒內的戒毒希望">
+    hideTooltip();
+    tween(scale, 1);
+
+resumeautorotation(forcehotspot);
+
+  </action>
+
+
+
+</krpano>
