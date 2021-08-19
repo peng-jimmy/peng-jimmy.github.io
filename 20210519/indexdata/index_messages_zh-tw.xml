@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <krpano>
 
-<!-- ************************ -->
-<!--         Messages         -->
-<!-- ************************ -->
 
   <data name="zh-tw_project_title"><![CDATA[當名畫遇見毒品特展]]></data>
   <data name="zh-tw_project_author_name"><![CDATA[peng.jimmy@gmail.com]]></data>
