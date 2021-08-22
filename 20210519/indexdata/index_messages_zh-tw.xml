@@ -39,18 +39,20 @@
   <data name="zh-tw_pano33_title"><![CDATA[6 鴉片危害的歌曲影片]]></data>
   <data name="zh-tw_spotpoint124_tooltip"><![CDATA[5 愁城十二景]]></data>
   <data name="zh-tw_spotpoint125_tooltip"><![CDATA[7 一朝吸毒．十年戒毒 終身想毒幻視合影牆&nbsp;]]></data>
+  <data name="zh-tw_spotpolygon925_tooltip"><![CDATA[點選播放影片]]></data>
+  <data name="zh-tw_spotpolygon926_tooltip"><![CDATA[點選播放影片]]></data>
 
 
-  <data name="zh-tw_pano34_title"><![CDATA[7 一朝吸毒．十年戒毒 終身想毒幻視合影牆 ]]></data>
+  <data name="zh-tw_pano34_title"><![CDATA[7 一朝吸毒．十年戒毒．終身想毒幻視合影牆 ]]></data>
   <data name="zh-tw_spotpoint192_tooltip"><![CDATA[7 一朝吸毒十年戒毒 終身想毒幻視合影牆<div>8 毒品成癮機制</div>]]></data>
 
 
-  <data name="zh-tw_pano127_title"><![CDATA[7 一朝吸毒．十年戒毒 終身想毒幻視合影牆  8 毒品成癮機制]]></data>
+  <data name="zh-tw_pano127_title"><![CDATA[7 一朝吸毒．十年戒毒．終身想毒幻視合影牆．8 毒品成癮機制]]></data>
   <data name="zh-tw_spotpoint193_tooltip"><![CDATA[7 一朝吸毒．十年戒毒 終身想毒幻視合影牆&nbsp;]]></data>
   <data name="zh-tw_spotpoint194_tooltip"><![CDATA[8 毒品成癮機制<div>9 樂極生悲 人工智慧運算生成圖</div>]]></data>
 
 
-  <data name="zh-tw_pano128_title"><![CDATA[8 毒品成癮機制  9 樂極生悲 人工智慧運算生成圖]]></data>
+  <data name="zh-tw_pano128_title"><![CDATA[8 毒品成癮機制．9 樂極生悲 人工智慧運算生成圖]]></data>
   <data name="zh-tw_spotpoint195_tooltip"><![CDATA[7 一朝吸毒十年戒毒 終身想毒幻視合影牆<div>8 毒品成癮機制</div>]]></data>
   <data name="zh-tw_spotpoint196_tooltip"><![CDATA[7 一朝吸毒．十年戒毒 終身想毒幻視合影牆&nbsp;]]></data>
   <data name="zh-tw_spotpoint197_tooltip"><![CDATA[10 鴉片之害]]></data>
@@ -128,7 +130,7 @@
 
   <data name="zh-tw_pano145_title"><![CDATA[21 鏡前的維納斯遇見減肥毒品]]></data>
   <data name="zh-tw_spotpoint226_tooltip"><![CDATA[20 安非他命的夢魘]]></data>
-  <data name="zh-tw_spotpoint227_tooltip"><![CDATA[22 形象的叛逆 煙斗遇見大麻]]></data>
+  <data name="zh-tw_spotpoint227_tooltip"><![CDATA[22 形象的叛逆煙斗遇見大麻]]></data>
 
 
   <data name="zh-tw_pano146_title"><![CDATA[22 形象的叛逆 煙斗遇見大麻]]></data>
@@ -136,14 +138,14 @@
   <data name="zh-tw_spotpoint229_tooltip"><![CDATA[23 噴泉小便斗遇見 k 他命]]></data>
 
 
-  <data name="zh-tw_pano147_title"><![CDATA[23 噴泉小便斗遇見 k 他命]]></data>
-  <data name="zh-tw_spotpoint230_tooltip"><![CDATA[22 形象的叛逆 煙斗遇見大麻]]></data>
-  <data name="zh-tw_spotpoint231_tooltip"><![CDATA[24 虛假的鏡子遇見毒品]]></data>
+  <data name="zh-tw_pano188_title"><![CDATA[23 噴泉小便斗遇見 k 他命]]></data>
+  <data name="zh-tw_spotpoint998_tooltip"><![CDATA[22 形象的叛逆煙斗遇見大麻]]></data>
+  <data name="zh-tw_spotpoint999_tooltip"><![CDATA[24 虛假的鏡子遇見毒品]]></data>
 
 
-  <data name="zh-tw_pano188_title"><![CDATA[24 虛假的鏡子遇見毒品]]></data>
-  <data name="zh-tw_spotpoint232_tooltip"><![CDATA[23 噴泉小便斗遇見 k 他命]]></data>
-  <data name="zh-tw_spotpoint233_tooltip"><![CDATA[25 亞當與夏娃遇見藥頭蛇]]></data>
+  <data name="zh-tw_pano147_title"><![CDATA[24 虛假的鏡子遇見毒品]]></data>
+  <data name="zh-tw_spotpoint1000_tooltip"><![CDATA[23 噴泉小便斗遇見 k 他命]]></data>
+  <data name="zh-tw_spotpoint1001_tooltip"><![CDATA[25 亞當與夏娃遇見藥頭蛇]]></data>
 
 
   <data name="zh-tw_pano184_title"><![CDATA[25 亞當與夏娃遇見藥頭蛇]]></data>
@@ -158,22 +160,24 @@
 
   <data name="zh-tw_pano149_title"><![CDATA[27 納西索斯遇見吸毒後的納西索斯]]></data>
   <data name="zh-tw_spotpoint238_tooltip"><![CDATA[26 女算命師變成販賣毒咖啡包的毒販<div><br></div>]]></data>
-  <data name="zh-tw_spotpoint239_tooltip"><![CDATA[28 吸毒大腦在吶喊]]></data>
+  <data name="zh-tw_spotpoint239_tooltip"><![CDATA[28 吸毒大腦在吶喊動畫]]></data>
 
 
   <data name="zh-tw_pano150_title"><![CDATA[28 吸毒大腦在吶喊]]></data>
   <data name="zh-tw_spotpoint240_tooltip"><![CDATA[27 納西索斯遇見吸毒後的納西索斯]]></data>
   <data name="zh-tw_spotpoint241_tooltip"><![CDATA[28-1 吸毒大腦在吶喊]]></data>
+  <data name="zh-tw_spotpolygon1015_tooltip"><![CDATA[點選播放影片]]></data>
 
 
   <data name="zh-tw_pano151_title"><![CDATA[28-1 吸毒大腦在吶喊]]></data>
   <data name="zh-tw_spotpoint242_tooltip"><![CDATA[29 當毒品進入家庭動態影片]]></data>
-  <data name="zh-tw_spotpoint243_tooltip"><![CDATA[28 吸毒大腦在吶喊]]></data>
+  <data name="zh-tw_spotpoint243_tooltip"><![CDATA[28 吸毒大腦在吶喊動畫]]></data>
 
 
   <data name="zh-tw_pano152_title"><![CDATA[29 當毒品進入家庭動態影片]]></data>
   <data name="zh-tw_spotpoint244_tooltip"><![CDATA[28-1 吸毒大腦在吶喊]]></data>
   <data name="zh-tw_spotpoint245_tooltip"><![CDATA[30 浪子毒海回頭]]></data>
+  <data name="zh-tw_spotpolygon1019_tooltip"><![CDATA[點選播放影片]]></data>
 
 
   <data name="zh-tw_pano153_title"><![CDATA[30 浪子毒海回頭]]></data>
@@ -330,11 +334,11 @@
 
 
 
-  <data name="zh-tw_pano147_description"><![CDATA[23 噴泉小便斗遇見 k 他命]]></data>
-
-
-
   <data name="zh-tw_pano188_description"><![CDATA[24 虛假的鏡子遇見毒品]]></data>
+
+
+
+  <data name="zh-tw_pano147_description"><![CDATA[23 噴泉小便斗遇見 k 他命]]></data>
 
 
 
