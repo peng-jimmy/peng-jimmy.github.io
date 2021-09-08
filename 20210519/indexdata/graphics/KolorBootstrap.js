@@ -259,7 +259,8 @@ function eventKrpanoLoaded (isWebVr) {
 	
 	}else{
 	
-	
+	addKolorBox('gallery');
+
 addKolorArea('floorPlanArea');
 
 	}
@@ -276,6 +277,7 @@ function eventUnloadPlugins () {
 	
 deleteKolorFloorPlan('floorPlan');
 deleteKolorArea('floorPlanArea');
+deleteKolorBox('gallery');
 
 }
 
@@ -579,6 +581,149 @@ function showKolorArea(pPlugID, pContent)
  * @return {void}
  */
 function deleteKolorArea(pPlugID)
+{
+	if(ktools.KolorPluginList.getInstance().getPlugin(pPlugID)){
+		ktools.KolorPluginList.getInstance().removePlugin(pPlugID);
+	}
+	var parent = document.getElementById("panoDIV");
+	var child = document.getElementById(pPlugID);
+	if(parent && child){
+		parent.removeChild(child);
+	}
+}
+
+
+/**
+ * @function
+ * @description Add an instance of kolorBox JS Engine, loads JS and CSS files then init and populate related plugin that's based on it.
+ * @param {String} pPlugID The name of the plugin you want to give to the kolorBox instance. 
+ * @return {void}
+ */
+function addKolorBox(pPlugID)
+{
+	if(typeof ktools.KolorPluginList.getInstance().getPlugin(pPlugID) == "undefined")
+	{
+		var kolorBoxCSS = new ktools.CssStyle("KolorBoxCSS", crossDomainTargetUrl+"indexdata/graphics/KolorBox/kolorBox.css");
+		var kolorBoxJS = new ktools.Script("KolorBoxJS", crossDomainTargetUrl+"indexdata/graphics/KolorBox/KolorBox.min.js", [], true);
+		var kolorBoxPlugin = new ktools.KolorPlugin(pPlugID);
+		kolorBoxPlugin.addScript(kolorBoxJS);
+		kolorBoxPlugin.addCss(kolorBoxCSS);
+		ktools.KolorPluginList.getInstance().addPlugin(kolorBoxPlugin.getPluginName(), kolorBoxPlugin, true);
+		showKolorBox(pPlugID, 0, true);
+	}
+}
+
+/**
+ * @function
+ * @description Init, populate and show the kolorBox. You can init only.
+ * @param {String} pPlugID The name of the plugin you want to init and/or show.
+ * @param {Number} pIndex The index you want to open, supposing your kolorBox is populated by a list of items (gallery case).
+ * @param {Boolean} pInitOnly If this param is true, just populate the kolorBox engine with the XML data without opening it.
+ * @return {void}
+ */
+function showKolorBox(pPlugID, pIndex, pInitOnly)
+{
+	if(debug) { console.log("showKolorBox " + pPlugID); }
+
+	//Check if the KolorBox is loaded
+	if(!ktools.KolorPluginList.getInstance().getPlugin(pPlugID).isInitialized() || typeof KolorBox === "undefined")
+	{
+		err = "KolorBox JS or XML is not loaded !";
+		if(debug){ console.log(err); }
+		//If not loaded, retry in 100 ms
+		setTimeout(function() { showKolorBox(pPlugID, pIndex, pInitOnly); }, 100);
+		return;
+	}
+
+	//Check if the KolorBox is instantiate and registered with the ktools.Plugin Object
+	//If not, instantiate the KolorBox and register it.
+	if(ktools.KolorPluginList.getInstance().getPlugin(pPlugID).getRegistered() === null)
+	{
+		ktools.KolorPluginList.getInstance().getPlugin(pPlugID).register(new KolorBox(pPlugID, "panoDIV"));
+	}
+
+	//Get the registered instance of KolorBox
+	var kolorBox = ktools.KolorPluginList.getInstance().getPlugin(pPlugID).getRegistered();
+
+	//If kolorBox is not ready, populate datas
+	if(!kolorBox.isReady())
+	{
+		var kolorBoxOptions = [];
+		var optionName = '';
+		var optionValue = '';
+
+		//Build the Options data for the KolorBox
+		var optionLength = parseInt(getKrPanoInstance().get("ptplugin["+pPlugID+"].settings.option.count"));
+
+		for(var j = 0; j < optionLength; j++)
+		{
+			optionName = getKrValue("ptplugin["+pPlugID+"].settings.option["+j+"].name","string");
+			if (optionName == 'zorder') {
+				optionValue = kolorStartIndex + getKrValue("ptplugin["+pPlugID+"].settings.option["+j+"].value", getKrValue("ptplugin["+pPlugID+"].settings.option["+j+"].type", "string"));
+			} else {
+				optionValue = getKrValue("ptplugin["+pPlugID+"].settings.option["+j+"].value", getKrValue("ptplugin["+pPlugID+"].settings.option["+j+"].type", "string"));
+			}
+			kolorBoxOptions[optionName] = optionValue;
+		}
+		//add the device check
+		kolorBoxOptions['device'] = getKrValue('vrtourdevice','string');
+		//kolorBoxOptions['scale'] = getKrValue('vrtourdevicescale','float');
+		kolorBox.setKolorBoxOptions(kolorBoxOptions);
+
+		if(kolorBoxOptions['starts_opened']) {
+			pInitOnly = false;
+		}
+
+		//Build the Items data for the KolorBox
+		var kbItem = null;
+		var itemLength = parseInt(getKrPanoInstance().get("ptplugin["+pPlugID+"].internaldata.item.count"));
+		for(var k = 0; k < itemLength; k++)
+		{
+			//Build a new item
+			kbItem = new KolorBoxObject();
+			kbItem.setName(getKrValue("ptplugin["+pPlugID+"].internaldata.item["+k+"].name","string"));
+			kbItem.setTitle(getKrValue("ptplugin["+pPlugID+"].internaldata.item["+k+"].title","string"));
+			kbItem.setCaption(getKrValue("ptplugin["+pPlugID+"].internaldata.item["+k+"].caption","string"));
+			kbItem.setValue(getKrValue("ptplugin["+pPlugID+"].internaldata.item["+k+"].value","string"));
+
+			//If external data get n' set
+			if(kbItem.getValue() === "externalData")
+				kbItem.setData(getKrValue('data['+getKrValue("ptplugin["+pPlugID+"].internaldata.item["+k+"].dataName","string")+'].content', 'string'));
+
+			//Add the item
+			kolorBox.addKolorBoxItem(kbItem);
+
+			kbItem.init();
+		}
+
+		//Kolorbox is now ready !
+		kolorBox.setReady(true);
+		//call ready statement for krpano script
+		invokeKrFunction("kolorBoxJsReady_"+pPlugID);
+	}
+
+	//If id is defined, show this kolorBox
+	if(typeof pPlugID !== "undefined" && (typeof pInitOnly === "undefined" || pInitOnly === false))
+	{
+		//If no index specified, set 0 as default index
+		if(typeof pIndex === "undefined") { pIndex = 0; }
+		kolorBox.openKolorBox(pIndex);
+	}
+
+	//If a plugin method has been called before registration the method is called now
+	if(pluginLoaded && pluginLoaded.item(pPlugID)){
+		invokePluginFunction.apply(null, pluginLoaded.item(pPlugID));
+		pluginLoaded.remove(pPlugID);
+	}
+}
+
+/**
+ * @function
+ * @description Delete kolorBox.
+ * @param {String} pPlugID The name of the plugin you want to delete.
+ * @return {void}
+ */
+function deleteKolorBox(pPlugID)
 {
 	if(ktools.KolorPluginList.getInstance().getPlugin(pPlugID)){
 		ktools.KolorPluginList.getInstance().removePlugin(pPlugID);

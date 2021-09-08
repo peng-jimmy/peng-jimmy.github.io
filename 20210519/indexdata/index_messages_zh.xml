@@ -241,7 +241,6 @@
   <data name="zh_controlBar_dockedThumbnailsmoveRightTip"><![CDATA[Move right]]></data>
   <data name="zh_controlBar_dockedThumbnailsmoveUpTip"><![CDATA[Move up]]></data>
   <data name="zh_controlBar_dockedThumbnailsmoveDownTip"><![CDATA[Move down]]></data>
-  <data name="zh_controlBar_dockedThumbnailshomeTip"><![CDATA[Home]]></data>
   <data name="zh_controlBar_dockedThumbnailsopenFsTip"><![CDATA[Enter fullscreen]]></data>
   <data name="zh_controlBar_dockedThumbnailscloseFsTip"><![CDATA[Exit fullscreen]]></data>
   <data name="zh_controlBar_dockedThumbnailsautorotateOnTip"><![CDATA[Start autorotation]]></data>
@@ -250,7 +249,38 @@
   <data name="zh_controlBar_dockedThumbnailshideControlsTip"><![CDATA[Hide controls]]></data>
   <data name="zh_controlBar_dockedThumbnailsctrlmodeDragTip"><![CDATA[Change control mode]]></data>
   <data name="zh_controlBar_dockedThumbnailsctrlmodeMoveTip"><![CDATA[Change control mode]]></data>
-  <data name="zh_buttontooltip"><![CDATA[地圖]]></data>
+  <data name="zh_buttontooltip"><![CDATA[導覽地圖]]></data>
+  <data name="zh_button1tooltip"><![CDATA[回首頁]]></data>
+  <data name="zh_button1onclick1574openurlwebsiteurl"><![CDATA[https://web3.nmns.edu.tw/Exhibits/110/PaintingsAndDrugs/index.html]]></data>
+  <data name="zh_galleryplay_text"><![CDATA[Play / Pause]]></data>
+  <data name="zh_gallerynavprev_text"><![CDATA[Previous]]></data>
+  <data name="zh_gallerynavnext_text"><![CDATA[Next]]></data>
+  <data name="zh_galleryfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="zh_galleryclose_text"><![CDATA[Close]]></data>
+  <data name="zh_gallerypicture_title0"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_caption0"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_title2"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_caption2"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_title3"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_caption3"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_title4"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_caption4"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_title5"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_caption5"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_title6"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_caption6"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_title7"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_caption7"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_title8"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_caption8"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_title9"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_caption9"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_title10"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_caption10"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_title11"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_caption11"><![CDATA[]]></data>
 
 
   <data name="zh_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
