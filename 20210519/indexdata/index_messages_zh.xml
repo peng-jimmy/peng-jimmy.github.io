@@ -250,8 +250,6 @@
   <data name="zh_controlBar_dockedThumbnailsctrlmodeDragTip"><![CDATA[Change control mode]]></data>
   <data name="zh_controlBar_dockedThumbnailsctrlmodeMoveTip"><![CDATA[Change control mode]]></data>
   <data name="zh_buttontooltip"><![CDATA[導覽地圖]]></data>
-  <data name="zh_button1tooltip"><![CDATA[回首頁]]></data>
-  <data name="zh_button1onclick1574openurlwebsiteurl"><![CDATA[https://web3.nmns.edu.tw/Exhibits/110/PaintingsAndDrugs/index.html]]></data>
   <data name="zh_galleryplay_text"><![CDATA[Play / Pause]]></data>
   <data name="zh_gallerynavprev_text"><![CDATA[Previous]]></data>
   <data name="zh_gallerynavnext_text"><![CDATA[Next]]></data>
