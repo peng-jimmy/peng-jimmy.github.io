@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+
+  <data name="zh_project_title"><![CDATA[當名畫遇見毒品特展]]></data>
+  <data name="zh_project_author_name"><![CDATA[YouMei Technology Co., Ltd.]]></data>
+  <data name="zh_project_author_url"><![CDATA[http://www.youmei.tw]]></data>
+
+
+
+  <data name="zh_pano14_title"><![CDATA[當名畫遇見毒品特展參觀入口]]></data>
+  <data name="zh_spotpoint24_tooltip"><![CDATA[1 蒙娜麗莎遇見海洛英]]></data>
+
+
+  <data name="zh_pano15_title"><![CDATA[1 蒙娜麗莎遇見海洛英]]></data>
+  <data name="zh_spotpoint25_tooltip"><![CDATA[當名畫遇見毒品特展參觀入口]]></data>
+  <data name="zh_spotpoint27_tooltip"><![CDATA[2 毒品或藥品兩面相圖]]></data>
+
+
+  <data name="zh_pano16_title"><![CDATA[2 毒品或藥品兩面相圖]]></data>
+  <data name="zh_spotpoint28_tooltip"><![CDATA[1 蒙娜麗莎遇見海洛英]]></data>
+  <data name="zh_spotpoint29_tooltip"><![CDATA[3 毒理學之父–帕拉塞爾蘇斯遇見鴉片酊]]></data>
+
+
+  <data name="zh_pano22_title"><![CDATA[3 毒理學之父–帕拉塞爾蘇斯遇見鴉片酊]]></data>
+  <data name="zh_spotpoint30_tooltip"><![CDATA[2 毒品或藥品兩面相圖]]></data>
+  <data name="zh_spotpoint119_tooltip"><![CDATA[4 人子遇見罌粟花]]></data>
+
+
+  <data name="zh_pano31_title"><![CDATA[4 人子遇見罌粟花]]></data>
+  <data name="zh_spotpoint120_tooltip"><![CDATA[3 毒理學之父–帕拉塞爾蘇斯遇見鴉片酊]]></data>
+  <data name="zh_spotpoint121_tooltip"><![CDATA[5 愁城十二景]]></data>
+
+
+  <data name="zh_pano32_title"><![CDATA[5 愁城十二景]]></data>
+  <data name="zh_spotpoint122_tooltip"><![CDATA[4 人子遇見罌粟花]]></data>
+  <data name="zh_spotpoint123_tooltip"><![CDATA[6 鴉片危害的歌曲影片]]></data>
+
+
+  <data name="zh_pano33_title"><![CDATA[6 鴉片危害的歌曲影片]]></data>
+  <data name="zh_spotpoint124_tooltip"><![CDATA[5 愁城十二景]]></data>
+  <data name="zh_spotpoint125_tooltip"><![CDATA[7 一朝吸毒．十年戒毒．終身想毒幻視合影牆]]></data>
+  <data name="zh_spotpolygon925_tooltip"><![CDATA[點選播放影片]]></data>
+  <data name="zh_spotpolygon926_tooltip"><![CDATA[點選播放影片]]></data>
+
+
+  <data name="zh_pano34_title"><![CDATA[7 一朝吸毒．十年戒毒．終身想毒幻視合影牆 ]]></data>
+  <data name="zh_spotpoint192_tooltip"><![CDATA[7 一朝吸毒．十年戒毒．終身想毒幻視合影牆<div>8 毒品成癮機制</div>]]></data>
+  <data name="zh_spotpoint1904_tooltip"><![CDATA[6 鴉片危害的歌曲影片]]></data>
+
+
+  <data name="zh_pano127_title"><![CDATA[7 一朝吸毒．十年戒毒．終身想毒幻視合影牆．8 毒品成癮機制]]></data>
+  <data name="zh_spotpoint193_tooltip"><![CDATA[7 一朝吸毒．十年戒毒．終身想毒幻視合影牆&nbsp;]]></data>
+  <data name="zh_spotpoint194_tooltip"><![CDATA[8 毒品成癮機制<div>9 樂極生悲 人工智慧運算生成圖</div>]]></data>
+
+
+  <data name="zh_pano128_title"><![CDATA[8 毒品成癮機制．9 樂極生悲 人工智慧運算生成圖]]></data>
+  <data name="zh_spotpoint195_tooltip"><![CDATA[7 一朝吸毒．十年戒毒．終身想毒幻視合影牆<div>8 毒品成癮機制</div>]]></data>
+  <data name="zh_spotpoint196_tooltip"><![CDATA[7 一朝吸毒．十年戒毒．終身想毒幻視合影牆]]></data>
+  <data name="zh_spotpoint197_tooltip"><![CDATA[10 鴉片之害]]></data>
+
+
+  <data name="zh_pano129_title"><![CDATA[10 鴉片之害]]></data>
+  <data name="zh_spotpoint198_tooltip"><![CDATA[8 毒品成癮機制<div>9 樂極生悲 人工智慧運算生成圖</div>]]></data>
+  <data name="zh_spotpoint199_tooltip"><![CDATA[10-1 鴉片之害]]></data>
+
+
+  <data name="zh_pano131_title"><![CDATA[10-1 鴉片之害]]></data>
+  <data name="zh_spotpoint200_tooltip"><![CDATA[10 鴉片之害]]></data>
+  <data name="zh_spotpoint201_tooltip"><![CDATA[10-2 鴉片之害]]></data>
+
+
+  <data name="zh_pano133_title"><![CDATA[10-2 鴉片之害]]></data>
+  <data name="zh_spotpoint202_tooltip"><![CDATA[10-1 鴉片之害]]></data>
+  <data name="zh_spotpoint203_tooltip"><![CDATA[10-3 鴉片之害]]></data>
+
+
+  <data name="zh_pano134_title"><![CDATA[10-3 鴉片之害]]></data>
+  <data name="zh_spotpoint204_tooltip"><![CDATA[10-2 鴉片之害]]></data>
+  <data name="zh_spotpoint205_tooltip"><![CDATA[11 江湖郎中改賣鴉片類管制品]]></data>
+
+
+  <data name="zh_pano135_title"><![CDATA[11 江湖郎中改賣鴉片類管制品]]></data>
+  <data name="zh_spotpoint206_tooltip"><![CDATA[10-3 鴉片之害]]></data>
+  <data name="zh_spotpoint207_tooltip"><![CDATA[12 潘朵拉打開毒害之盒]]></data>
+
+
+  <data name="zh_pano136_title"><![CDATA[12 潘朵拉打開毒害之盒]]></data>
+  <data name="zh_spotpoint208_tooltip"><![CDATA[11 江湖郎中改賣鴉片類管制品]]></data>
+  <data name="zh_spotpoint209_tooltip"><![CDATA[13 當頑童在城市後街一起吸毒]]></data>
+
+
+  <data name="zh_pano137_title"><![CDATA[13 當頑童在城市後街一起吸毒]]></data>
+  <data name="zh_spotpoint210_tooltip"><![CDATA[12 潘朵拉打開毒害之盒]]></data>
+  <data name="zh_spotpoint211_tooltip"><![CDATA[14 從抽煙到吸毒]]></data>
+
+
+  <data name="zh_pano138_title"><![CDATA[14 從抽煙到吸毒]]></data>
+  <data name="zh_spotpoint212_tooltip"><![CDATA[13 當頑童在城市後街一起吸毒]]></data>
+  <data name="zh_spotpoint213_tooltip"><![CDATA[15 人類濫用成癮藥物的墮落]]></data>
+
+
+  <data name="zh_pano139_title"><![CDATA[15 人類濫用成癮藥物的墮落]]></data>
+  <data name="zh_spotpoint214_tooltip"><![CDATA[14 從抽煙到吸毒]]></data>
+  <data name="zh_spotpoint215_tooltip"><![CDATA[16 悲傷的老人碰毒成癮]]></data>
+
+
+  <data name="zh_pano140_title"><![CDATA[16 悲傷的老人碰毒成癮]]></data>
+  <data name="zh_spotpoint216_tooltip"><![CDATA[15 人類濫用成癮藥物的墮落]]></data>
+  <data name="zh_spotpoint217_tooltip"><![CDATA[17 戴珍珠耳環的少女遇見 LSD]]></data>
+
+
+  <data name="zh_pano141_title"><![CDATA[17 戴珍珠耳環的少女遇見 LSD]]></data>
+  <data name="zh_spotpoint218_tooltip"><![CDATA[16 悲傷的老人碰毒成癮]]></data>
+  <data name="zh_spotpoint219_tooltip"><![CDATA[18 逃避批評男孩遇見搖頭丸]]></data>
+
+
+  <data name="zh_pano142_title"><![CDATA[18 逃避批評男孩遇見搖頭丸]]></data>
+  <data name="zh_spotpoint220_tooltip"><![CDATA[17 戴珍珠耳環的少女遇見 LSD]]></data>
+  <data name="zh_spotpoint221_tooltip"><![CDATA[19 魯特琴男孩遇見冰毒]]></data>
+
+
+  <data name="zh_pano143_title"><![CDATA[19 魯特琴男孩遇見冰毒]]></data>
+  <data name="zh_spotpoint222_tooltip"><![CDATA[18 逃避批評男孩遇見搖頭丸]]></data>
+  <data name="zh_spotpoint223_tooltip"><![CDATA[20 安非他命的夢魘]]></data>
+
+
+  <data name="zh_pano144_title"><![CDATA[20 安非他命的夢魘]]></data>
+  <data name="zh_spotpoint224_tooltip"><![CDATA[19 魯特琴男孩遇見冰毒]]></data>
+  <data name="zh_spotpoint225_tooltip"><![CDATA[21 鏡前的維納斯遇見減肥毒品]]></data>
+
+
+  <data name="zh_pano145_title"><![CDATA[21 鏡前的維納斯遇見減肥毒品]]></data>
+  <data name="zh_spotpoint226_tooltip"><![CDATA[20 安非他命的夢魘]]></data>
+  <data name="zh_spotpoint227_tooltip"><![CDATA[22 形象的叛逆煙斗遇見大麻]]></data>
+
+
+  <data name="zh_pano146_title"><![CDATA[22 形象的叛逆 煙斗遇見大麻]]></data>
+  <data name="zh_spotpoint228_tooltip"><![CDATA[21 鏡前的維納斯遇見減肥毒品]]></data>
+  <data name="zh_spotpoint229_tooltip"><![CDATA[23 噴泉小便斗遇見 k 他命]]></data>
+
+
+  <data name="zh_pano188_title"><![CDATA[23 噴泉小便斗遇見 k 他命]]></data>
+  <data name="zh_spotpoint998_tooltip"><![CDATA[22 形象的叛逆煙斗遇見大麻]]></data>
+  <data name="zh_spotpoint999_tooltip"><![CDATA[24 虛假的鏡子遇見毒品]]></data>
+
+
+  <data name="zh_pano147_title"><![CDATA[24 虛假的鏡子遇見毒品]]></data>
+  <data name="zh_spotpoint1000_tooltip"><![CDATA[23 噴泉小便斗遇見 k 他命]]></data>
+  <data name="zh_spotpoint1001_tooltip"><![CDATA[25 亞當與夏娃遇見藥頭蛇]]></data>
+
+
+  <data name="zh_pano184_title"><![CDATA[25 亞當與夏娃遇見藥頭蛇]]></data>
+  <data name="zh_spotpoint234_tooltip"><![CDATA[24 虛假的鏡子遇見毒品]]></data>
+  <data name="zh_spotpoint235_tooltip"><![CDATA[26 女算命師變成販賣毒咖啡包的毒販<div><br></div>]]></data>
+
+
+  <data name="zh_pano148_title"><![CDATA[26 女算命師變成販賣毒咖啡包的毒販]]></data>
+  <data name="zh_spotpoint236_tooltip"><![CDATA[25 亞當與夏娃遇見藥頭蛇]]></data>
+  <data name="zh_spotpoint237_tooltip"><![CDATA[27 納西索斯遇見吸毒後的納西索斯]]></data>
+
+
+  <data name="zh_pano149_title"><![CDATA[27 納西索斯遇見吸毒後的納西索斯]]></data>
+  <data name="zh_spotpoint238_tooltip"><![CDATA[26 女算命師變成販賣毒咖啡包的毒販<div><br></div>]]></data>
+  <data name="zh_spotpoint239_tooltip"><![CDATA[28 吸毒大腦在吶喊動畫]]></data>
+
+
+  <data name="zh_pano150_title"><![CDATA[28 吸毒大腦在吶喊]]></data>
+  <data name="zh_spotpoint240_tooltip"><![CDATA[27 納西索斯遇見吸毒後的納西索斯]]></data>
+  <data name="zh_spotpoint241_tooltip"><![CDATA[28-1 吸毒大腦在吶喊]]></data>
+  <data name="zh_spotpolygon1015_tooltip"><![CDATA[點選播放影片]]></data>
+
+
+  <data name="zh_pano151_title"><![CDATA[28-1 吸毒大腦在吶喊]]></data>
+  <data name="zh_spotpoint242_tooltip"><![CDATA[29 當毒品進入家庭動態影片]]></data>
+  <data name="zh_spotpoint243_tooltip"><![CDATA[28 吸毒大腦在吶喊動畫]]></data>
+
+
+  <data name="zh_pano152_title"><![CDATA[29 當毒品進入家庭動態影片]]></data>
+  <data name="zh_spotpoint244_tooltip"><![CDATA[28-1 吸毒大腦在吶喊]]></data>
+  <data name="zh_spotpoint245_tooltip"><![CDATA[30 浪子毒海回頭]]></data>
+  <data name="zh_spotpolygon1019_tooltip"><![CDATA[點選播放影片]]></data>
+
+
+  <data name="zh_pano153_title"><![CDATA[30 浪子毒海回頭]]></data>
+  <data name="zh_spotpoint246_tooltip"><![CDATA[29 當毒品進入家庭動態影片]]></data>
+  <data name="zh_spotpoint247_tooltip"><![CDATA[31 潘朵拉盒內的戒毒希望]]></data>
+
+
+  <data name="zh_pano154_title"><![CDATA[31 潘朵拉盒內的戒毒希望]]></data>
+  <data name="zh_spotpoint248_tooltip"><![CDATA[當名畫遇見毒品特展參觀入口]]></data>
+  <data name="zh_spotpoint249_tooltip"><![CDATA[30 浪子毒海回頭]]></data>
+
+
+
+
+	<data name="zh_project_floor_title"><![CDATA[當名畫遇見毒品特展]]></data>
+	<data name="zh_spotmap2300_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2301_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2336_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2337_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2338_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2339_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2340_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2341_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2342_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2343_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2344_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2345_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2346_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2347_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2348_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2352_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2353_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2354_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2355_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2356_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2357_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2358_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2359_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2360_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2361_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2362_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2363_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2364_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2365_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2366_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2367_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2368_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2370_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2371_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2372_tooltip"><![CDATA[]]></data>
+	<data name="zh_spotmap2373_tooltip"><![CDATA[]]></data>
+
+
+  <data name="zh_controlBar_dockedThumbnailsprevSceneTip"><![CDATA[Previous panorama]]></data>
+  <data name="zh_controlBar_dockedThumbnailsnextSceneTip"><![CDATA[Next panorama]]></data>
+  <data name="zh_controlBar_dockedThumbnailszoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="zh_controlBar_dockedThumbnailszoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="zh_controlBar_dockedThumbnailsmoveLeftTip"><![CDATA[Move left]]></data>
+  <data name="zh_controlBar_dockedThumbnailsmoveRightTip"><![CDATA[Move right]]></data>
+  <data name="zh_controlBar_dockedThumbnailsmoveUpTip"><![CDATA[Move up]]></data>
+  <data name="zh_controlBar_dockedThumbnailsmoveDownTip"><![CDATA[Move down]]></data>
+  <data name="zh_controlBar_dockedThumbnailsopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="zh_controlBar_dockedThumbnailscloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="zh_controlBar_dockedThumbnailsautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="zh_controlBar_dockedThumbnailsautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="zh_controlBar_dockedThumbnailsdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="zh_controlBar_dockedThumbnailshideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="zh_controlBar_dockedThumbnailsctrlmodeDragTip"><![CDATA[Change control mode]]></data>
+  <data name="zh_controlBar_dockedThumbnailsctrlmodeMoveTip"><![CDATA[Change control mode]]></data>
+  <data name="zh_buttontooltip"><![CDATA[導覽地圖]]></data>
+  <data name="zh_galleryplay_text"><![CDATA[Play / Pause]]></data>
+  <data name="zh_gallerynavprev_text"><![CDATA[Previous]]></data>
+  <data name="zh_gallerynavnext_text"><![CDATA[Next]]></data>
+  <data name="zh_galleryfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="zh_galleryclose_text"><![CDATA[Close]]></data>
+  <data name="zh_gallerypicture_title0"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_caption0"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_title2"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_caption2"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_title3"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_caption3"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_title4"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_caption4"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_title5"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_caption5"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_title6"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_caption6"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_title7"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_caption7"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_title8"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_caption8"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_title9"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_caption9"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_title10"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_caption10"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_title11"><![CDATA[]]></data>
+  <data name="zh_gallerypicture_caption11"><![CDATA[]]></data>
+
+
+  <data name="zh_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="zh_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="zh_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="zh_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="zh_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="zh_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="zh_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="zh_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="zh_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="zh_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="zh_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="zh_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="zh_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="zh_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="zh_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="zh_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="zh_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="zh_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="zh_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="zh_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="zh_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="zh_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="zh_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="zh_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="zh_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="zh_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="zh_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="zh_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="zh_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="zh_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+  <data name="zh_pano14_description"><![CDATA[當名畫遇見毒品特展參觀入口]]></data>
+
+
+
+  <data name="zh_pano15_description"><![CDATA[1 蒙娜麗莎遇見海洛英]]></data>
+
+
+
+  <data name="zh_pano16_description"><![CDATA[2 毒品或藥品兩面相圖]]></data>
+
+
+
+  <data name="zh_pano22_description"><![CDATA[3 毒理學之父–帕拉塞爾蘇斯遇見鴉片酊]]></data>
+
+
+
+  <data name="zh_pano31_description"><![CDATA[4 人子遇見罌粟花]]></data>
+
+
+
+  <data name="zh_pano32_description"><![CDATA[5 愁城十二景]]></data>
+
+
+
+  <data name="zh_pano33_description"><![CDATA[6 鴉片危害的歌曲影片]]></data>
+
+
+
+  <data name="zh_pano34_description"><![CDATA[7 一朝吸毒．十年戒毒．終身想毒幻視合影牆&nbsp;]]></data>
+
+
+
+  <data name="zh_pano127_description"><![CDATA[7 一朝吸毒．十年戒毒．終身想毒幻視合影牆<div>8 毒品成癮機制</div>]]></data>
+
+
+
+  <data name="zh_pano128_description"><![CDATA[8 毒品成癮機制<div>9 樂極生悲 人工智慧運算生成圖</div>]]></data>
+
+
+
+  <data name="zh_pano129_description"><![CDATA[10 鴉片之害]]></data>
+
+
+
+  <data name="zh_pano131_description"><![CDATA[10-1 鴉片之害]]></data>
+
+
+
+  <data name="zh_pano133_description"><![CDATA[10-2 鴉片之害]]></data>
+
+
+
+  <data name="zh_pano134_description"><![CDATA[10-3 鴉片之害]]></data>
+
+
+
+  <data name="zh_pano135_description"><![CDATA[11 江湖郎中改賣鴉片類管制品]]></data>
+
+
+
+  <data name="zh_pano136_description"><![CDATA[12 潘朵拉打開毒害之盒]]></data>
+
+
+
+  <data name="zh_pano137_description"><![CDATA[13 當頑童在城市後街一起吸毒]]></data>
+
+
+
+  <data name="zh_pano138_description"><![CDATA[14 從抽煙到吸毒]]></data>
+
+
+
+  <data name="zh_pano139_description"><![CDATA[15 人類濫用成癮藥物的墮落]]></data>
+
+
+
+  <data name="zh_pano140_description"><![CDATA[16 悲傷的老人碰毒成癮]]></data>
+
+
+
+  <data name="zh_pano141_description"><![CDATA[17 戴珍珠耳環的少女遇見 LSD]]></data>
+
+
+
+  <data name="zh_pano142_description"><![CDATA[18 逃避批評男孩遇見搖頭丸]]></data>
+
+
+
+  <data name="zh_pano143_description"><![CDATA[19 魯特琴男孩遇見冰毒]]></data>
+
+
+
+  <data name="zh_pano144_description"><![CDATA[20 安非他命的夢魘]]></data>
+
+
+
+  <data name="zh_pano145_description"><![CDATA[21 鏡前的維納斯遇見減肥毒品]]></data>
+
+
+
+  <data name="zh_pano146_description"><![CDATA[22 形象的叛逆 煙斗遇見大麻]]></data>
+
+
+
+  <data name="zh_pano188_description"><![CDATA[24 虛假的鏡子遇見毒品]]></data>
+
+
+
+  <data name="zh_pano147_description"><![CDATA[23 噴泉小便斗遇見 k 他命]]></data>
+
+
+
+  <data name="zh_pano184_description"><![CDATA[25 亞當與夏娃遇見藥頭蛇]]></data>
+
+
+
+  <data name="zh_pano148_description"><![CDATA[26 女算命師變成販賣毒咖啡包的毒販<div><br></div>]]></data>
+
+
+
+  <data name="zh_pano149_description"><![CDATA[27 納西索斯遇見吸毒後的納西索斯]]></data>
+
+
+
+  <data name="zh_pano150_description"><![CDATA[28 吸毒大腦在吶喊]]></data>
+
+
+
+  <data name="zh_pano151_description"><![CDATA[28-1 吸毒大腦在吶喊]]></data>
+
+
+
+  <data name="zh_pano152_description"><![CDATA[29 當毒品進入家庭動態影片]]></data>
+
+
+
+  <data name="zh_pano153_description"><![CDATA[30 浪子毒海回頭]]></data>
+
+
+
+  <data name="zh_pano154_description"><![CDATA[31 潘朵拉盒內的戒毒希望]]></data>
+
+
+</krpano>
